@@ -1,0 +1,14 @@
+<visualization>
+    <juxtapose axis="x" spacing="50">
+        <street bind=".infradb:rtr" spacing="25" axis="z">
+            <street bind=".infradb:agg" spacing="15" axis="x">
+                <street bind=".infradb:tor" spacing="5" axis="z">
+                    <box bind=".infradb:machine" color=".infradb:hostname_to_pdu|power_to_color"/>
+                    <box height="1" depth="10" width="5" color="gray5" opacity="0.3"/>
+                </street>
+                <box height="3" width="10" depth="5" color="gray5" opacity="0.5"/>
+            </street>
+            <box height="5" depth="10" width="5" color="gray5" opacity="0.7"/>
+        </street>
+    </juxtapose>
+</visualization>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<visualization>
+    <nolayout height="42" depth="20" width="12">
+        <juxtapose axis="x">
+            <juxtapose axis="y">
+                <box bind=".infradb:pdu_hostname" width="2" depth="2" height="equal%" color=".snmp:active_power|power_to_color"/>
+                <box bind=".infradb:pdu_hostname" filter="=null" width="2" depth="2" height="100%" color="gray5"/>
+            </juxtapose>
+            <padding height="42" depth="20" width="12">
+                <juxtapose axis="x">
+                    <juxtapose bind=".infradb:location_row.snmp:rack.snmp:aisle" filter="='hot'" axis="y">
+                        <box bind=".snmp:position" height="equal%" width="1" depth="100%" color=".snmp:tempSensorTempC|temp_to_color"/>
+                    </juxtapose>
+                    <box height="100%" width="100%" depth="100%" color="gray5" opacity="0.2"/>
+                    <juxtapose bind=".infradb:location_row.snmp:rack.snmp:aisle" filter="='cold'" axis="y">
+                        <box bind=".snmp:position" height="equal%" width="1" depth="100%" color=".snmp:tempSensorTempC|temp_to_color"/>
+                    </juxtapose>
+                </juxtapose>
+            </padding>
+        </juxtapose>
+    </nolayout>
+</visualization>

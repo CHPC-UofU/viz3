@@ -1,0 +1,39 @@
+datasources:
+  infradb:
+    datasource: sqlite3
+    filepath: "data/infra.db"
+    tables:
+      location:
+        primary_keys: [datacenter, row, rack, slot, partition]
+        category_keys:
+          pod: [row]
+          room: [pod]
+      pdu:
+        primary_keys: [datacenter, row, rack, slot, partition, hostname]
+        foreign_keys:
+          datacenter: location.datacenter
+          row: location.row
+          rack: location.rack
+          slot: location.slot
+          partition: location.partition
+      machine:
+        primary_keys: [datacenter, row, rack, slot, partition, hostname]
+        foreign_keys:
+          datacenter: location.datacenter
+          row: location.row
+          rack: location.rack
+          slot: location.slot
+          partition: location.partition
+      machine_manufacturer:
+        primary_keys: [hostname, manufacturer, model]
+        foreign_keys:
+          hostname: machine.hostname
+        values: [units]
+      env:
+        primary_keys: [datacenter, row, rack, slot, partition, hostname]
+        foreign_keys:
+          datacenter: location.datacenter
+          row: location.row
+          rack: location.rack
+          slot: location.slot
+          partition: location.partition

@@ -1,0 +1,1052 @@
+[
+  {
+    "time": "2022-04-15T17:59:44.450820",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster001",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T17:59:44.450820",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster001",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T17:59:44.450820",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster001",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T17:59:52.064550",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster002",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T17:59:52.064550",
+    "gpuactive": 0,
+    "instance": "gpu1",
+    "cluster": "cluster",
+    "host": "cluster002"
+  },
+  {
+    "time": "2022-04-15T17:59:52.064550",
+    "gpuactive": 0,
+    "host": "cluster002",
+    "instance": "gpu2",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T17:59:52.262270",
+    "gpuactive": 93,
+    "cluster": "cluster",
+    "host": "cluster003",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T17:59:52.262270",
+    "gpuactive": 94,
+    "cluster": "cluster",
+    "host": "cluster003",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T17:59:52.262270",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster003",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T17:59:37.677015",
+    "gpuactive": 89,
+    "cluster": "cluster",
+    "host": "cluster004",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T17:59:37.677015",
+    "gpuactive": 92,
+    "host": "cluster004",
+    "instance": "gpu1",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T17:59:37.677015",
+    "gpuactive": 0,
+    "host": "cluster004",
+    "instance": "gpu2",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:00:09.964187",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster055",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:00:09.964187",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster055",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:09.964187",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster055",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:00:09.964187",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster055",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "gpuactive": 91,
+    "instance": "gpu0",
+    "cluster": "cluster",
+    "host": "cluster060"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "gpuactive": 91,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "gpuactive": 91,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "gpuactive": 91,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "gpuactive": 88,
+    "host": "cluster060",
+    "instance": "gpu4",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "gpuactive": 91,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "gpuactive": 91,
+    "instance": "gpu6",
+    "cluster": "cluster",
+    "host": "cluster060"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "gpuactive": 89,
+    "host": "cluster060",
+    "instance": "gpu7",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:00:29.916120",
+    "gpuactive": 0,
+    "instance": "gpu0",
+    "cluster": "cluster",
+    "host": "cluster081"
+  },
+  {
+    "time": "2022-04-15T18:00:29.916120",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster081",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:39.268326",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster082",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:00:39.268326",
+    "gpuactive": 0,
+    "host": "cluster082",
+    "instance": "gpu1",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:00:12.435198",
+    "gpuactive": 89,
+    "cluster": "cluster",
+    "host": "cluster083",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:00:12.435198",
+    "gpuactive": 87,
+    "cluster": "cluster",
+    "host": "cluster083",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:12.435198",
+    "gpuactive": 87,
+    "cluster": "cluster",
+    "host": "cluster083",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:00:12.435198",
+    "gpuactive": 87,
+    "cluster": "cluster",
+    "host": "cluster083",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:04.485589",
+    "gpuactive": 87,
+    "cluster": "cluster",
+    "host": "cluster084",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:04.485589",
+    "gpuactive": 87,
+    "host": "cluster084",
+    "instance": "gpu1",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:04.485589",
+    "gpuactive": 88,
+    "cluster": "cluster",
+    "host": "cluster084",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:04.485589",
+    "gpuactive": 87,
+    "cluster": "cluster",
+    "host": "cluster084",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:04.663877",
+    "gpuactive": 47,
+    "cluster": "cluster",
+    "host": "cluster085",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:04.663877",
+    "gpuactive": 43,
+    "instance": "gpu1",
+    "cluster": "cluster",
+    "host": "cluster085"
+  },
+  {
+    "time": "2022-04-15T18:01:04.663877",
+    "gpuactive": 46,
+    "cluster": "cluster",
+    "host": "cluster085",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:04.663877",
+    "gpuactive": 47,
+    "cluster": "cluster",
+    "host": "cluster085",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:01.812458",
+    "gpuactive": 93,
+    "host": "cluster086",
+    "instance": "gpu0",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:01.812458",
+    "gpuactive": 91,
+    "cluster": "cluster",
+    "host": "cluster086",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:01.812458",
+    "gpuactive": 97,
+    "cluster": "cluster",
+    "host": "cluster086",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:01.812458",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster086",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:00:35.567063",
+    "gpuactive": 46,
+    "cluster": "cluster",
+    "host": "cluster087",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:00:35.567063",
+    "gpuactive": 91,
+    "cluster": "cluster",
+    "host": "cluster087",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:35.567063",
+    "gpuactive": 93,
+    "cluster": "cluster",
+    "host": "cluster087",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:00:35.567063",
+    "gpuactive": 45,
+    "cluster": "cluster",
+    "host": "cluster087",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:11.327988",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster088",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:11.327988",
+    "gpuactive": 93,
+    "cluster": "cluster",
+    "host": "cluster088",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:11.327988",
+    "gpuactive": 92,
+    "cluster": "cluster",
+    "host": "cluster088",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-03-25T19:16:29.696844",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster088",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:14.464186",
+    "gpuactive": 95,
+    "instance": "gpu0",
+    "cluster": "cluster",
+    "host": "cluster089"
+  },
+  {
+    "time": "2022-04-15T18:01:14.464186",
+    "gpuactive": 93,
+    "instance": "gpu1",
+    "cluster": "cluster",
+    "host": "cluster089"
+  },
+  {
+    "time": "2022-04-15T18:01:14.464186",
+    "gpuactive": 91,
+    "cluster": "cluster",
+    "host": "cluster089",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:14.464186",
+    "gpuactive": 92,
+    "cluster": "cluster",
+    "host": "cluster089",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:13.073590",
+    "gpuactive": 86,
+    "host": "cluster102",
+    "instance": "gpu0",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "gpuactive": 91,
+    "instance": "gpu0",
+    "cluster": "cluster",
+    "host": "cluster103"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "gpuactive": 90,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "gpuactive": 91,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "gpuactive": 90,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "gpuactive": 98,
+    "host": "cluster136",
+    "instance": "gpu0",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "gpuactive": 89,
+    "cluster": "cluster",
+    "host": "cluster136",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "gpuactive": 96,
+    "instance": "gpu2",
+    "cluster": "cluster",
+    "host": "cluster136"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster136",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "gpuactive": 97,
+    "cluster": "cluster",
+    "host": "cluster136",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "gpuactive": 92,
+    "instance": "gpu5",
+    "cluster": "cluster",
+    "host": "cluster136"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster136",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "gpuactive": 97,
+    "cluster": "cluster",
+    "host": "cluster136",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "gpuactive": 87,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "gpuactive": 94,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "gpuactive": 87,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "gpuactive": 50,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "gpuactive": 85,
+    "instance": "gpu4",
+    "cluster": "cluster",
+    "host": "cluster168"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "gpuactive": 89,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "gpuactive": 86,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "gpuactive": 52,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "gpuactive": 90,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "gpuactive": 88,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "gpuactive": 94,
+    "host": "cluster169",
+    "instance": "gpu2",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "gpuactive": 54,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "gpuactive": 51,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "gpuactive": 89,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "gpuactive": 51,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "gpuactive": 89,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:01:55.340271",
+    "gpuactive": 0,
+    "host": "cluster204",
+    "instance": "gpu0",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:55.340271",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster204",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "gpuactive": 94,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "gpuactive": 98,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "gpuactive": 95,
+    "instance": "gpu2",
+    "cluster": "cluster",
+    "host": "cluster215"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "gpuactive": 95,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "gpuactive": 89,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "gpuactive": 95,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "gpuactive": 97,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "gpuactive": 88,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "gpuactive": 96,
+    "instance": "gpu0",
+    "cluster": "cluster",
+    "host": "cluster271"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "gpuactive": 92,
+    "host": "cluster271",
+    "instance": "gpu1",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "gpuactive": 92,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "gpuactive": 95,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "gpuactive": 90,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "gpuactive": 90,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "gpuactive": 100,
+    "instance": "gpu0",
+    "cluster": "cluster",
+    "host": "cluster293"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster293",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "gpuactive": 0,
+    "host": "cluster293",
+    "instance": "gpu2",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster293",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "gpuactive": 100,
+    "host": "cluster293",
+    "instance": "gpu4",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster293",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster293",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "gpuactive": 100,
+    "cluster": "cluster",
+    "host": "cluster293",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:02:26.715150",
+    "gpuactive": 93,
+    "cluster": "cluster",
+    "host": "cluster294",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:26.715150",
+    "gpuactive": 91,
+    "instance": "gpu1",
+    "cluster": "cluster",
+    "host": "cluster294"
+  },
+  {
+    "time": "2022-04-15T18:02:26.715150",
+    "gpuactive": 92,
+    "host": "cluster294",
+    "instance": "gpu2",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:26.715150",
+    "gpuactive": 91,
+    "cluster": "cluster",
+    "host": "cluster294",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "gpuactive": 19,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "gpuactive": 88,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "gpuactive": 96,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "gpuactive": 89,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:02:51.782795",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster300",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:55.610760",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster308",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:55.610760",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster308",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:03:18.620419",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster309",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:03:18.620419",
+    "gpuactive": 0,
+    "host": "cluster309",
+    "instance": "gpu1",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "gpuactive": 0,
+    "instance": "gpu3",
+    "cluster": "cluster",
+    "host": "cluster328"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:03:23.462398",
+    "gpuactive": 0,
+    "host": "cluster329",
+    "instance": "gpu0",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:03:23.462398",
+    "gpuactive": 0,
+    "host": "cluster329",
+    "instance": "gpu1",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:03:23.462398",
+    "gpuactive": 0,
+    "instance": "gpu2",
+    "cluster": "cluster",
+    "host": "cluster329"
+  },
+  {
+    "time": "2022-04-15T18:03:23.462398",
+    "gpuactive": 0,
+    "cluster": "cluster",
+    "host": "cluster329",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:03:15.552056",
+    "gpuactive": 14,
+    "cluster": "cluster",
+    "host": "cluster330",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:03:15.552056",
+    "gpuactive": 55,
+    "cluster": "cluster",
+    "host": "cluster330",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:03:15.552056",
+    "gpuactive": 10,
+    "cluster": "cluster",
+    "host": "cluster330",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:03:15.552056",
+    "gpuactive": 3,
+    "cluster": "cluster",
+    "host": "cluster330",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:03:15.552056",
+    "gpuactive": 33,
+    "instance": "gpu4",
+    "cluster": "cluster",
+    "host": "cluster330"
+  },
+  {
+    "time": "2022-04-15T18:03:15.552056",
+    "gpuactive": 32,
+    "cluster": "cluster",
+    "host": "cluster330",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:03:15.552056",
+    "gpuactive": 20,
+    "cluster": "cluster",
+    "host": "cluster330",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:03:15.552056",
+    "gpuactive": 6,
+    "cluster": "cluster",
+    "host": "cluster330",
+    "instance": "gpu7"
+  }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<visualization>
+    <nolayout bind="snmp:instance">
+        <plane height="1" depth="20" width="12" padding="1" color="gray4" opacity="0.7">
+            <juxtapose spacing="5" axis="z">
+                <juxtapose spacing="2.5" axis="x">
+                    <juxtapose bind=".snmp:channel" filter="={0,1}" spacing="1" axis="x">
+                        <box bind=".snmp:dimm" width="1" height="5" depth="100%" color=".snmp:lmTempSensorsValue|lm_temp_to_color" opacity="0.8"/>
+                    </juxtapose>
+                    <grid spacing="0.25">
+                        <box bind=".snmp:temp_core" width="5" height="1" depth="5" color=".snmp:lmTempSensorsValue|lm_temp_to_color" opacity="0.8"/>
+                    </grid>
+                    <box bind=".snmp:temp_core" filter="=null" width="12" height="1" depth="20"/>
+                    <juxtapose bind=".snmp:channel" filter="={2,3}" spacing="1" axis="x">
+                        <box bind=".snmp:dimm" width="1" height="5" depth="100%" color=".snmp:lmTempSensorsValue|lm_temp_to_color" opacity="0.8"/>
+                    </juxtapose>
+                </juxtapose>
+            </juxtapose>
+        </plane>
+    </nolayout>
+</visualization>

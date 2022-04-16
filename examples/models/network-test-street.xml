@@ -1,0 +1,33 @@
+<visualization>
+    <juxtapose axis="x" spacing="50">
+        <street bind="test:rtr" spacing="5" axis="z">
+            <street bind=".test:agg" filter="=a" spacing="15" axis="x">
+                <street bind=".test:tor" filter="=t" spacing="15" axis="z">
+                    <box bind=".test:machine" height="30" depth="15" width="15" color=".test:la|to_orange_red"/>
+                    <!--<box bind=".test:pdu" height="5" width="15" depth="25" color=".test:pdu_pct|to_red_blue"/>-->
+                    <box height="1" depth="10" width="5" color="blue7"/>
+                </street>
+                <street bind=".test:tor" filter="=u" spacing="15" axis="z">
+                    <box bind=".test:machine" height="30" depth="15" width="15" color=".test:la|to_orange_red"/>
+                    <!--<box bind=".test:pdu" height="5" width="15" depth="25" color=".test:pdu_pct|to_red_blue"/>-->
+                    <box height="1" depth="10" width="5" color="grape6"/>
+                </street>
+                <box height="3" width="5" depth="5" color="blue9" />
+            </street>
+            <street bind=".test:agg" filter="=b" spacing="15" axis="x">
+                <street bind=".test:tor" filter="=t" spacing="15" axis="z">
+                    <box bind=".test:machine" height="30" depth="15" width="15" color=".test:la|to_orange_red"/>
+                    <!--<box bind=".test:pdu" height="5" width="15" depth="25" color=".test:pdu_pct|to_red_blue"/>-->
+                    <box height="1" depth="10" width="5" color="violet5"/>
+                </street>
+                <street bind=".test:tor" filter="=u" spacing="15" axis="z">
+                    <box bind=".test:machine" height="30" depth="15" width="15" color=".test:la|to_orange_red"/>
+                    <!--<box bind=".test:pdu" height="5" width="15" depth="25" color=".test:pdu_pct|to_red_blue"/>-->
+                    <box height="1" depth="10" width="5" color="blue9"/>
+                </street>
+                <box height="3" width="5" depth="5" color="violet9" />
+            </street>
+            <box height="5" depth="5" width="5" color="violet2" />
+        </street>
+    </juxtapose>
+</visualization>

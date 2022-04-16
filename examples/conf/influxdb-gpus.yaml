@@ -1,0 +1,27 @@
+cache:
+  dir: cache
+datasources:
+  gpu:
+    datasource: influxdb
+    target: localhost:8086
+    username: pcp
+    password: performanceIsParamount
+    database: pcp
+    measurements:
+      nvidia:
+        tags: [cluster, host, instance]
+        fields:
+          busid: str
+          cardname: str
+          fanspeed: float
+          gpuactive: float
+          gpuid: float
+          memactive: float
+          memtotal: float
+          memused: float
+          perfstate: float
+          temp: float
+      nvidia_info:
+        tags: [cluster, host]
+        fields:
+          numcards: float

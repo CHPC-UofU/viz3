@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<visualization>
+    <juxtapose axis="x" spacing="2">
+        <juxtapose bind="pcp:numa_nodes" align="center" axis="z">
+            <nolayout bind="pcp:la" filter="=15" >
+                <plane bind=".pcp:kernel-all-load" height="0.5" padding="1" opacity="fraction(.pcp:kernel-all-load, pcp:hinv-ncpu)" color="fraction(.pcp:kernel-all-load, pcp:hinv-ncpu)|to_red_blue">
+                    <grid spacing="1">
+                        <box width="5" depth="5" height="0.5" bind="pcp:processors" color="pcp:kernel-all-pressure-cpu-some-avg|to_red_blue"/>
+                    </grid>
+                </plane>
+            </nolayout>
+            <padding padding="10"/>
+            <box bind=".pcp:mem-numa-max_bandwidth" height="1" width=".pcp:mem-numa-max_bandwidth|div_by_1024" depth="3"/>
+            <nolayout width="50">
+                <plane height="1" padding="1" color="gray1" opacity="0.5">
+                    <grid spacing="0.25">
+                        <box bind="pcp:zone_numa_types" depth="10" height="fraction(.pcp:mem-zoneinfo-free, .pcp:mem-zoneinfo-spanned)|times_two" width="eq%" color="fraction(.pcp:mem-zoneinfo-free, .pcp:mem-zoneinfo-spanned)|to_red_blue"/>
+                    </grid>
+                </plane>
+            </nolayout>
+        </juxtapose>
+        <nolayout height="2">
+            <juxtapose axis="y">
+                <box bind="pcp:swap-used" radius="5" height="pct(.pcp:swap-used, pcp:swap-length)%" opacity="fraction(.pcp:swap-used, pcp:swap-length)" color="pct(.pcp:swap-used, pcp:swap-length)|to_red_blue"/>
+                <box bind="pcp:swap-free" radius="5" height="pct(.pcp:swap-free, pcp:swap-length)%" opacity="fraction(.pcp:swap-free, pcp:swap-length)" color="pct(.pcp:swap-free, pcp:swap-length)|to_red_blue"/>
+            </juxtapose>
+        </nolayout>
+    </juxtapose>
+</visualization>

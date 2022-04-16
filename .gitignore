@@ -1,0 +1,45 @@
+# Compiler stuff
+*.a
+*.dylib
+*.dSYM/
+*.o
+*.so
+# MacOS stuff
+.DS_Store
+*.nosync
+# Editor stuff
+.idea/
+.sw*
+.vscode/
+# Build Stuff
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CTestTestfile.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Testing/
+build/
+cmake-build-debug/
+cmake_install.cmake
+./Makefile
+tests/Makefile
+install_manifest.txt
+# Python Stuff
+__pycache__/
+dist/
+*.egg-info
+# Generated files
+viz3/core.pyi
+/test_*
+compile_flags.txt
+# LaTeX
+*-eps-converted-to.pdf
+*.aux
+*.out
+*.bbl
+*.log
+*.blg
+# Personal stash directory
+tmp/
+offline/

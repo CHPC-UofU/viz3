@@ -1,0 +1,2912 @@
+[
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H10 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H10 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H10 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H10 Hot Middle"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H10 Hot Top"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H7 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H7 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H7 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H8 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H8 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H8 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H8 Hot Middle"
+    },
+    "42"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H8 Hot Top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H9 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H9 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H9 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H9 Hot Middle"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room1-env-h8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "H9 Hot Top"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q10 Cold Bottom"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q10 Cold Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q10 Cold Top"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q10 Hot Middle"
+    },
+    "34"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q10 Hot Top"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q11 Cold Bottom"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q11 Cold Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q11 Hot Middle"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q11 Hot Top"
+    },
+    "28"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q12 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q12 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q12 Cold Top"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q12 Hot Middle"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q12 Hot Top"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q13 Cold Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q13 Hot High"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q13 Hot Middle"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q14 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q14 Cold High"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q14 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q14 Hot High"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q14 Hot Middle"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q15 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q15 Cold High"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q15 Cold Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q15 Hot High"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q15 Hot Middle"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q01 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q01 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q01 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q01 Hot Middle"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q01 Hot Top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q02 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q02 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q02 Hot Middle"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q02 Hot Top"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q03 Cold Bottom"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q03 Cold Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q03 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q03 Hot Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q03 Hot Top"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q04 Cold Bottom"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q04 Cold Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q04 Cold Top"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q04 Hot Middle"
+    },
+    "27"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q04 Hot Top"
+    },
+    "27"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q05 Cold Bottom"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q05 Cold Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q05 Hot Middle"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q05 Hot Top"
+    },
+    "28"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q06 Cold Bottom"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q06 Cold Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q06 Cold Top"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q06 Hot Middle"
+    },
+    "27"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q06 Hot Top"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q07 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q07 Cold Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q07 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q07 Hot Middle"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q07 Hot Top"
+    },
+    "28"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q08 Cold Bottom"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q08 Cold Middle "
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q08 Hot Top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q09 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q09 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q09 Hot Middle"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-q8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Q09 Hot Top"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R10 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R10 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R10 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R10 Hot Middle"
+    },
+    "34"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R10 Hot Top"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R11 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R11 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R11 Hot Middle"
+    },
+    "38"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R11 Hot Top"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R12 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R12 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R12 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R12 Hot Middle"
+    },
+    "37"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R12 Hot Top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R13 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R13 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R13 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R13 Hot Middle"
+    },
+    "36"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R13 Hot Top"
+    },
+    "28"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R14 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R14 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R14 Hot Middle"
+    },
+    "37"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R14 Hot Top"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R15 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R15 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R15 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R15 Hot Middle"
+    },
+    "39"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R15 Hot Top"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R01 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R01 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R01 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R01 Hot Middle"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R01 Hot Top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R02 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R02 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R02 Hot Middle"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R02 Hot Top"
+    },
+    "27"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R03 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R03 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R03 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R03 Hot Middle"
+    },
+    "28"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R03 Hot Top"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R04 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R04 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R04 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R04 Hot Top"
+    },
+    "28"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R05 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R05 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R05 Hot Middle"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R05 Hot Top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R06 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R06 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R06 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-r5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "R06 Hot Middle"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S10 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S10 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S10 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S10 Hot Middle"
+    },
+    "35"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S10 Hot Top"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S11 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S11 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S11 Hot Middle"
+    },
+    "35"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S11 Hot Top "
+    },
+    "28"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S12 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S12 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S12 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S12 Hot Middle"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S12 Hot Top"
+    },
+    "28"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S13 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S13 Cold Middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S13 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S13 Hot Middle"
+    },
+    "40"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S13 Hot Top"
+    },
+    "28"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S14 Cold Bottom"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S14 Cold Middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S14 Hot Middle"
+    },
+    "34"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S14 Hot Top"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S15 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S15 Cold Middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S15 Cold Top"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S15 Hot Middle"
+    },
+    "34"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S15 Hot Top"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S01 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S01 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S01 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S01 Hot Middle"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S01 Hot Top"
+    },
+    "37"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S02 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S02 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S02 Hot Middle"
+    },
+    "38"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S02 Hot Top"
+    },
+    "39"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S03 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S03 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S03 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S03 Hot Middle"
+    },
+    "38"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S03 Hot Top"
+    },
+    "38"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S04 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S04 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S04 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S04 Hot Middle"
+    },
+    "38"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S04 Hot Top"
+    },
+    "38"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S05 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S05 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S05 Hot Middle"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S05 Hot Top"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S06 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S06 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S06 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S06 Hot Top"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "Temp Sensor"
+    },
+    "34"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S07 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S07 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S07 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S07 Hot MIddle"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S07 Hot Top"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S08 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S08 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S08 Hot MIddle"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S08 Hot Top"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S09 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S09 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S09 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S09 Hot MIddle"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-s8-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "S09 Hot Top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T10 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T10 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T10 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T10 Hot Middle"
+    },
+    "34"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T10 Hot Top"
+    },
+    "34"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T11 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T11 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T11 Hot Middle"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T11 Hot Top"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T12 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T12 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T12 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T12 Hot Middle"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t11-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T12 Hot Top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T13 cold bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T13 cold middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T13 cold top"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T13 hot middle"
+    },
+    "36"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T14 cold bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T14 cold middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T14 hot middle"
+    },
+    "37"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T14 hot top"
+    },
+    "27"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T15 cold bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T15 cold middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T15 cold top"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T15 hot middle"
+    },
+    "40"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T15 hot top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T04 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T04 Cold Middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T04 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T04 Hot Middle"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T04 Hot Top"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T05 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T05 Cold Middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T05 Hot Middle"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T05 Hot Top"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T06 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T06 Cold Middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T06 Cold Top"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T06 Hot Middle"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-t5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "T06 Hot Top"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U14 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U14 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U14 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U14 Hot Middle"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U14 Hot Top"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U15 Bottom Cold"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U15 Hot Middle"
+    },
+    "37"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U15 Hot Top"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U15 Middle Cold"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U16 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U16 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U16 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U16 Hot Middle"
+    },
+    "35"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u14-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U16 Hot Top"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U4 Cold Bottom"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U4 Cold Middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U4 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U4 Hot Middle"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U4 Hot Top"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U5 Cold Bottom"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U5 Cold Middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U5 Hot Middle"
+    },
+    "32"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U5 Hot Top"
+    },
+    "27"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U6 Cold Bottom"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U6 Cold Middle"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U6 Cold Top"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U6 Hot Middle"
+    },
+    "34"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-u5-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "U6 Hot Top"
+    },
+    "29"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V01 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V01 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V01 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V01 Hot Middle"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V01 Hot Top"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V02 Cold Middle"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V02 Hot Middle"
+    },
+    "33"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V02 Hot Top"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V03 Cold Bottom"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V03 Cold Middle"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V03 Cold Top"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V03 Hot Middle"
+    },
+    "30"
+  ],
+  [
+    {
+      "__name__": "tempSensorTempC",
+      "group": "env",
+      "instance": "building1-room2-env-v2-1",
+      "job": "snmp-env-sensors",
+      "tempSensorName": "V03 Hot Top"
+    },
+    "32"
+  ]
+]

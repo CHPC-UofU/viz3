@@ -1,0 +1,3 @@
+This directory contains the raw data required to produce the required artifacts for some visualization examples.
+
+Simply run 'make all' to create them.

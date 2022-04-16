@@ -1,0 +1,14 @@
+flask
+influxdb
+lxml
+matplotlib
+more_itertools
+mypy
+networkx
+panda3d
+psutil
+pydot
+pyyaml
+requests
+types-pyyaml
+types-setuptools

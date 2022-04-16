@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<visualization>
+    <juxtapose bind="infradb:location_datacenter" spacing="100" axis="x">
+        <juxtapose bind=".infradb:location_room" spacing="40" axis="x">
+            <juxtapose bind=".infradb:location_pod" spacing="10" axis="x">
+                <juxtapose bind=".infradb:location_row" axis="z">
+                    <juxtapose bind=".infradb:location_rack" axis="x">
+                        <!-- Assumes run from the dir up from models/ -->
+                        <include path="models/machine_room.rack.simple.xml"/>
+                    </juxtapose>
+                </juxtapose>
+            </juxtapose>
+        </juxtapose>
+    </juxtapose>
+</visualization>

@@ -1,0 +1,89 @@
+cache:
+  dir: cache/
+datasources:
+  # SNMP metrics stored in Prometheus
+  snmp:
+    datasource: prometheus
+    target: localhost:9090
+    label_categories:
+      # Adds a group -> instance edge in the data graph; the group here is a
+      # label grouping collections of metrics configured together.
+      # e.g. linux-server, interactive-nodes, or storage-servers
+      group: [instance]
+    derived_labels:
+      # Note: These must be defined in a topological order to work around a
+      #       bug/missing internal topological sort
+      #
+      # tempSensor name is something like: 'Q03 Cold Top' or 'U15 Hot Middle'
+      - tempSensorName: row
+        regex: "([a-zA-Z])0*([1-9][0-9]*)"
+        func: str.lower # func is Python code eval()'d, then called: eval(...)("Q03 Cold Top")
+      - tempSensorName: rack
+        regex: "[a-zA-Z]0*([1-9][0-9]*)"
+        parent: row     # Add an edge between row and rack
+      - tempSensorName: aisle
+        parent: rack
+        regex: "(Hot|Cold)"
+        func: str.lower
+      - tempSensorName: position
+        parent: aisle
+        regex: "(Bottom|Top|Middle)"
+        func: str.lower
+      - lmTempSensorsDevice: channel
+        regex: "Ch. ([0-9]+)"
+      - lmTempSensorsDevice: dimm
+        parent: channel
+        regex: "DIMM ([0-9]+)"
+      - lmTempSensorsDevice: temp_core
+        regex: "^Core ([0-9]+)"
+      - lmTempSensorsDevice: package
+        regex: "Package id ([0-9]+)"
+    groups:
+      interface:
+        metrics: [ifHCOutOctets, ifHCOutOctets, ifLastChange, ifOperStatus]
+        primary_labels: [instance, ifIndex]
+        alias_labels:
+            - [ifIndex, ifName]
+        value_labels:
+          - ifAlias  # ifAlias is not a true alias, since admins have accidentially named something twice
+      interface_metadata:
+        metrics: [ifPhysAddress]
+        primary_labels: [instance, ifIndex]
+        alias_labels:
+            - [ifIndex, ifName]
+        value_labels:
+          - ifAlias
+          - ifPhysAddress
+      pdu_power:
+        metrics: [measurementsInletSensorValue]
+        primary_labels: [instance]
+        label_value_enums:
+          # sensorType is directly pulled from SNMP, which gives us C-style
+          # enum values, so map them here. e.g. sensorType="6"
+          sensorType:
+            5: active_power
+            6: apparent_power
+      pdu_sensor:
+        metrics: [measurementsExternalSensorValue]
+        primary_labels: [instance]
+        label_value_enums:
+          sensorID:
+            1: temp
+            2: humidity
+      env_sensor:
+        metrics: [tempSensorTempC]
+        # The order here is important, an edge is added between each primary label
+        primary_labels: [instance, tempSensorName, row, rack, aisle, position]
+        value_labels: []
+      lmsensor_memory:
+        metrics: [lmTempSensorsValue]
+        primary_labels: [instance, lmTempSensorsDevice, channel, dimm]
+        value_labels: []
+      lmsensor_core:
+        metrics: [lmTempSensorsValue]
+        primary_labels: [instance, lmTempSensorsDevice, temp_core]
+        value_labels: []
+      lmsensor_package:
+        metrics: [lmTempSensorsValue]
+        primary_labels: [instance, lmTempSensorsDevice, package]
+        value_labels: []

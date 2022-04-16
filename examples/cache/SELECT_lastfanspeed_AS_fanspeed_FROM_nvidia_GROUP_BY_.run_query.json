@@ -1,0 +1,821 @@
+[
+  {
+    "time": "2022-04-15T17:59:37.677015",
+    "fanspeed": 50,
+    "cluster": "cluster",
+    "host": "cluster004",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T17:59:37.677015",
+    "fanspeed": 42,
+    "cluster": "cluster",
+    "host": "cluster004",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:09.964187",
+    "fanspeed": 28,
+    "cluster": "cluster",
+    "host": "cluster055",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:00:09.964187",
+    "fanspeed": 28,
+    "cluster": "cluster",
+    "host": "cluster055",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:09.964187",
+    "fanspeed": 28,
+    "cluster": "cluster",
+    "host": "cluster055",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:00:09.964187",
+    "fanspeed": 28,
+    "cluster": "cluster",
+    "host": "cluster055",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "fanspeed": 68,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "fanspeed": 63,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "fanspeed": 20,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "fanspeed": 34,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "fanspeed": 21,
+    "host": "cluster060",
+    "instance": "gpu4",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "fanspeed": 50,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "fanspeed": 52,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:00:30.015962",
+    "fanspeed": 32,
+    "cluster": "cluster",
+    "host": "cluster060",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:00:12.435198",
+    "fanspeed": 67,
+    "host": "cluster083",
+    "instance": "gpu0",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:00:12.435198",
+    "fanspeed": 47,
+    "cluster": "cluster",
+    "host": "cluster083",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:12.435198",
+    "fanspeed": 44,
+    "cluster": "cluster",
+    "host": "cluster083",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:00:12.435198",
+    "fanspeed": 50,
+    "host": "cluster083",
+    "instance": "gpu3",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:04.485589",
+    "fanspeed": 52,
+    "cluster": "cluster",
+    "host": "cluster084",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:04.485589",
+    "fanspeed": 47,
+    "cluster": "cluster",
+    "host": "cluster084",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:04.485589",
+    "fanspeed": 50,
+    "cluster": "cluster",
+    "host": "cluster084",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:04.485589",
+    "fanspeed": 48,
+    "cluster": "cluster",
+    "host": "cluster084",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:04.663877",
+    "fanspeed": 45,
+    "cluster": "cluster",
+    "host": "cluster085",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:04.663877",
+    "fanspeed": 40,
+    "cluster": "cluster",
+    "host": "cluster085",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:04.663877",
+    "fanspeed": 45,
+    "instance": "gpu2",
+    "cluster": "cluster",
+    "host": "cluster085"
+  },
+  {
+    "time": "2022-04-15T18:01:04.663877",
+    "fanspeed": 40,
+    "cluster": "cluster",
+    "host": "cluster085",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:01.812458",
+    "fanspeed": 48,
+    "cluster": "cluster",
+    "host": "cluster086",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:01.812458",
+    "fanspeed": 46,
+    "cluster": "cluster",
+    "host": "cluster086",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:01.812458",
+    "fanspeed": 53,
+    "instance": "gpu2",
+    "cluster": "cluster",
+    "host": "cluster086"
+  },
+  {
+    "time": "2022-04-15T18:01:01.812458",
+    "fanspeed": 49,
+    "instance": "gpu3",
+    "cluster": "cluster",
+    "host": "cluster086"
+  },
+  {
+    "time": "2022-04-15T18:00:35.567063",
+    "fanspeed": 52,
+    "cluster": "cluster",
+    "host": "cluster087",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:00:35.567063",
+    "fanspeed": 48,
+    "cluster": "cluster",
+    "host": "cluster087",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:00:35.567063",
+    "fanspeed": 48,
+    "cluster": "cluster",
+    "host": "cluster087",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:00:35.567063",
+    "fanspeed": 50,
+    "cluster": "cluster",
+    "host": "cluster087",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:11.327988",
+    "fanspeed": 49,
+    "cluster": "cluster",
+    "host": "cluster088",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:11.327988",
+    "fanspeed": 48,
+    "cluster": "cluster",
+    "host": "cluster088",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:11.327988",
+    "fanspeed": 46,
+    "cluster": "cluster",
+    "host": "cluster088",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-03-25T19:16:29.696844",
+    "fanspeed": 27,
+    "host": "cluster088",
+    "instance": "gpu3",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:14.464186",
+    "fanspeed": 62,
+    "cluster": "cluster",
+    "host": "cluster089",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:14.464186",
+    "fanspeed": 52,
+    "cluster": "cluster",
+    "host": "cluster089",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:14.464186",
+    "fanspeed": 116,
+    "cluster": "cluster",
+    "host": "cluster089",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:14.464186",
+    "fanspeed": 52,
+    "cluster": "cluster",
+    "host": "cluster089",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:13.073590",
+    "fanspeed": 68,
+    "cluster": "cluster",
+    "host": "cluster102",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "fanspeed": 53,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "fanspeed": 52,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "fanspeed": 47,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "fanspeed": 52,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:01:36.033682",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster103",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "fanspeed": 0,
+    "host": "cluster136",
+    "instance": "gpu0",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster136",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster136",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster136",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "fanspeed": 0,
+    "instance": "gpu4",
+    "cluster": "cluster",
+    "host": "cluster136"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster136",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "fanspeed": 0,
+    "instance": "gpu6",
+    "cluster": "cluster",
+    "host": "cluster136"
+  },
+  {
+    "time": "2022-04-15T18:01:33.587581",
+    "fanspeed": 0,
+    "host": "cluster136",
+    "instance": "gpu7",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster168",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:02:02.902678",
+    "fanspeed": 0,
+    "instance": "gpu7",
+    "cluster": "cluster",
+    "host": "cluster168"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "fanspeed": 0,
+    "host": "cluster169",
+    "instance": "gpu1",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:01:47.229830",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster169",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "fanspeed": 0,
+    "host": "cluster215",
+    "instance": "gpu3",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "fanspeed": 0,
+    "host": "cluster215",
+    "instance": "gpu4",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster215",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "fanspeed": 0,
+    "host": "cluster215",
+    "instance": "gpu6",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:03.673349",
+    "fanspeed": 0,
+    "host": "cluster215",
+    "instance": "gpu7",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "fanspeed": 40,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "fanspeed": 36,
+    "instance": "gpu1",
+    "cluster": "cluster",
+    "host": "cluster271"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "fanspeed": 39,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "fanspeed": 41,
+    "instance": "gpu3",
+    "cluster": "cluster",
+    "host": "cluster271"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "fanspeed": 34,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "fanspeed": 37,
+    "host": "cluster271",
+    "instance": "gpu5",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "fanspeed": 35,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:02:05.435758",
+    "fanspeed": 27,
+    "cluster": "cluster",
+    "host": "cluster271",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "fanspeed": 100,
+    "cluster": "cluster",
+    "host": "cluster293",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "fanspeed": 30,
+    "cluster": "cluster",
+    "host": "cluster293",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "fanspeed": 30,
+    "cluster": "cluster",
+    "host": "cluster293",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:02:33.529685",
+    "fanspeed": 30,
+    "cluster": "cluster",
+    "host": "cluster293",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:26.715150",
+    "fanspeed": 56,
+    "cluster": "cluster",
+    "host": "cluster294",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:02:26.715150",
+    "fanspeed": 53,
+    "host": "cluster294",
+    "instance": "gpu1",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:26.715150",
+    "fanspeed": 52,
+    "host": "cluster294",
+    "instance": "gpu2",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:26.715150",
+    "fanspeed": 48,
+    "cluster": "cluster",
+    "host": "cluster294",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "fanspeed": 67,
+    "host": "cluster299",
+    "instance": "gpu0",
+    "cluster": "cluster"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "fanspeed": 97,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "fanspeed": 89,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "fanspeed": 91,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "fanspeed": 100,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "fanspeed": 53,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "fanspeed": 100,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:02:43.168135",
+    "fanspeed": 68,
+    "cluster": "cluster",
+    "host": "cluster299",
+    "instance": "gpu7"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "fanspeed": 30,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "fanspeed": 30,
+    "instance": "gpu1",
+    "cluster": "cluster",
+    "host": "cluster328"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "fanspeed": 30,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "fanspeed": 30,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu3"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "fanspeed": 30,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu4"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "fanspeed": 30,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu5"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "fanspeed": 30,
+    "cluster": "cluster",
+    "host": "cluster328",
+    "instance": "gpu6"
+  },
+  {
+    "time": "2022-04-15T18:03:10.132843",
+    "fanspeed": 30,
+    "instance": "gpu7",
+    "cluster": "cluster",
+    "host": "cluster328"
+  },
+  {
+    "time": "2022-04-15T18:03:23.462398",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster329",
+    "instance": "gpu0"
+  },
+  {
+    "time": "2022-04-15T18:03:23.462398",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster329",
+    "instance": "gpu1"
+  },
+  {
+    "time": "2022-04-15T18:03:23.462398",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster329",
+    "instance": "gpu2"
+  },
+  {
+    "time": "2022-04-15T18:03:23.462398",
+    "fanspeed": 0,
+    "cluster": "cluster",
+    "host": "cluster329",
+    "instance": "gpu3"
+  }
+]

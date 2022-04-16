@@ -1,0 +1,14 @@
+external_datasources:
+  - path: influxdb-gpus.yaml
+  - path: prometheus-snmp.yaml
+  - path: infradb.yaml
+  - path: redfish.yaml
+joins:
+  - infradb.machine.hostname: redfish.instance
+  - redfish.instance: gpu.host
+  - infradb.location.row: snmp.row
+  - infradb.location.rack: snmp.rack
+  - infradb.pdu.hostname: snmp.instance
+  - infradb.machine.hostname: snmp.instance
+  - infradb.env.hostname: snmp.instance
+  - redfish.instance: snmp.instance

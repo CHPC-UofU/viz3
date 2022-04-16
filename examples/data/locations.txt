@@ -1,0 +1,1137 @@
+# Location File:
+#
+# datacenter-room-pod-row-rack2
+# 	host	optional-data	...				# 1U, slot 1
+# 	%label							# *ignored*
+#	host2,host3						# 1U, slot 2
+#	host4							# 2U, slot 3
+#	host4							# 2U, slot 4
+# 	:label							# *skipped*
+#	host5							# 1U, slot 6
+# 	...
+# datacenter-room-pod-row-rack2		# Declares rack, without contents
+# 	%label1
+# datacenter-room-pod-row-rack3		# Same as ^
+# ...
+#
+# This file can be checked for basic validity with ./check_locations.awk
+building1-room2-7-v-16
+	%building1-room2-env-v16-1
+	%building1-room2-pdu-v16-1
+	%building1-room2-pdu-v16-2
+	%building1-room2-pdu-v16-3
+building1-room2-7-v-15
+	%building1-room2-env-v15-1
+	%building1-room2-pdu-v15-1
+	%building1-room2-pdu-v15-2
+	%building1-room2-pdu-v15-3
+building1-room2-7-v-14
+	%building1-room2-env-v14-1
+	%building1-room2-pdu-v14-1
+	%building1-room2-pdu-v14-2
+	%building1-room2-pdu-v14-3
+building1-room2-7-v-13
+	%building1-room2-env-v13-1
+	%building1-room2-pdu-v13-1
+	%building1-room2-pdu-v13-2
+	%building1-room2-pdu-v13-3
+building1-room2-7-v-12
+	%building1-room2-env-v12-1
+	%building1-room2-pdu-v12-1
+	%building1-room2-pdu-v12-2
+	%building1-room2-pdu-v12-3
+building1-room2-7-v-11
+	%building1-room2-env-v11-1
+	%building1-room2-pdu-v11-1
+	%building1-room2-pdu-v11-2
+	%building1-room2-pdu-v11-3
+building1-room2-7-v-10
+	%building1-room2-env-v10-1
+	%building1-room2-pdu-v10-1
+	%building1-room2-pdu-v10-2
+	%building1-room2-pdu-v10-3
+building1-room2-7-v-9
+	%building1-room2-env-v9-1
+	%building1-room2-pdu-v9-1
+	%building1-room2-pdu-v9-2
+	%building1-room2-pdu-v9-3
+building1-room2-7-v-8
+	%building1-room2-env-v8-1
+	%building1-room2-pdu-v8-1
+	%building1-room2-pdu-v8-2
+	%building1-room2-pdu-v8-3
+building1-room2-7-v-7
+	%building1-room2-env-v7-1
+	%building1-room2-pdu-v7-1
+	%building1-room2-pdu-v7-2
+	%building1-room2-pdu-v7-3
+building1-room2-7-v-6
+	%building1-room2-env-v6-1
+	%building1-room2-pdu-v6-1
+	%building1-room2-pdu-v6-2
+	%building1-room2-pdu-v6-3
+building1-room2-7-v-5
+	%building1-room2-env-v5-1
+	%building1-room2-pdu-v5-1
+	%building1-room2-pdu-v5-2
+	%building1-room2-pdu-v5-3
+building1-room2-7-v-4
+	%building1-room2-env-v4-1
+	%building1-room2-pdu-v4-1
+	%building1-room2-pdu-v4-2
+	%building1-room2-pdu-v4-3
+building1-room2-7-v-3
+	%building1-room2-env-v3-1
+	%building1-room2-pdu-v3-1
+	%building1-room2-pdu-v3-2
+	%building1-room2-pdu-v3-3
+building1-room2-7-v-2
+	%building1-room2-env-v2-1
+	%building1-room2-pdu-v2-1
+	%building1-room2-pdu-v2-2
+	%building1-room2-pdu-v2-3
+building1-room2-7-v-1
+	%building1-room2-env-v1-1
+	%building1-room2-pdu-v1-1
+	%building1-room2-pdu-v1-2
+	%building1-room2-pdu-v1-3
+building1-room2-7-u-16
+	%building1-room2-env-u16-1
+	%building1-room2-pdu-u16-1
+	%building1-room2-pdu-u16-2
+	%building1-room2-pdu-u16-3
+building1-room2-7-u-15
+	%building1-room2-env-u15-1
+	%building1-room2-pdu-u15-1
+	%building1-room2-pdu-u15-2
+	%building1-room2-pdu-u15-3
+building1-room2-7-u-14
+	%building1-room2-env-u14-1
+	%building1-room2-pdu-u14-1
+	%building1-room2-pdu-u14-2
+	%building1-room2-pdu-u14-3
+building1-room2-7-u-13
+	%building1-room2-env-u13-1
+	%building1-room2-pdu-u13-1
+	%building1-room2-pdu-u13-2
+	%building1-room2-pdu-u13-3
+building1-room2-7-u-12
+	%building1-room2-env-u12-1
+	%building1-room2-pdu-u12-1
+	%building1-room2-pdu-u12-2
+	%building1-room2-pdu-u12-3
+building1-room2-7-u-11
+	%building1-room2-env-u11-1
+	%building1-room2-pdu-u11-1
+	%building1-room2-pdu-u11-2
+	%building1-room2-pdu-u11-3
+building1-room2-7-u-10
+	%building1-room2-env-u10-1
+	%building1-room2-pdu-u10-1
+	%building1-room2-pdu-u10-2
+	%building1-room2-pdu-u10-3
+	:tor
+	:space
+	:space
+	:tor
+	:space
+	:space
+	cluster001
+	cluster001
+	cluster002
+	cluster002
+	cluster003
+	cluster003
+	cluster004
+	cluster004
+	cluster005
+	cluster006
+	cluster007
+	cluster008
+	cluster009
+	cluster010
+	cluster011
+	cluster012
+	cluster013
+	cluster014
+	cluster015
+	cluster016
+	cluster017
+	cluster018
+	cluster019
+	cluster020
+	cluster021
+	cluster022
+	cluster023
+	cluster024
+	cluster025
+	cluster026
+	cluster027
+	cluster028
+	cluster029
+	cluster030
+	cluster031
+	cluster032
+	cluster033
+	cluster034
+	cluster035
+	cluster036
+	cluster037
+	cluster038
+building1-room2-7-u-9
+	%building1-room2-env-u9-1
+	%building1-room2-pdu-u9-1
+	%building1-room2-pdu-u9-2
+	%building1-room2-pdu-u9-3
+	:tor
+	:space
+	:space
+	:space
+	:space
+	:space
+	cluster039
+	cluster040
+	cluster041
+	cluster042
+	cluster043
+	cluster044
+	cluster045
+	cluster046
+	cluster047
+	cluster048
+	cluster049
+	cluster050
+	cluster051
+	cluster052
+	cluster053
+	cluster054
+	cluster055
+	cluster056
+	cluster057
+	cluster058
+	cluster059
+	:space
+	cluster060
+	cluster060
+	cluster061
+	cluster061
+	cluster061
+	cluster062
+	cluster063
+	cluster064
+	cluster065
+	cluster066
+	cluster067
+	cluster068
+	cluster069
+	cluster070
+	cluster071
+	cluster072
+	cluster073
+	cluster074
+	cluster075
+	cluster076
+building1-room2-7-u-8
+	%building1-room2-env-u8-1
+	%building1-room2-pdu-u8-1
+	%building1-room2-pdu-u8-2
+	%building1-room2-pdu-u8-3
+	:tor
+	:space
+	:space
+	:tor
+	:space
+	:tor
+	cluster077
+	cluster078
+	cluster079
+	cluster080
+	cluster081
+	cluster081
+	cluster082
+	cluster082
+	cluster083
+	cluster083
+	cluster083
+	cluster083
+	cluster084
+	cluster084
+	cluster084
+	cluster084
+	cluster085
+	cluster085
+	cluster085
+	cluster085
+	cluster086
+	cluster086
+	cluster086
+	cluster086
+	cluster087
+	cluster087
+	cluster087
+	cluster087
+	cluster088
+	cluster088
+	cluster088
+	cluster088
+	cluster089
+	cluster089
+	cluster089
+	cluster089
+	cluster092,cluster093
+	cluster090,cluster091
+	cluster096,cluster097
+	cluster094,cluster095
+	cluster098,cluster099
+	cluster100,cluster101
+building1-room2-7-u-7
+	%building1-room2-env-u7-1
+	%building1-room2-pdu-u7-1
+	%building1-room2-pdu-u7-2
+	%building1-room2-pdu-u7-3
+	:tor
+	:space
+	:space
+	:tor
+	:space
+	:tor
+	cluster102
+	cluster102
+	cluster102
+	cluster102
+	:space
+	cluster103
+	cluster103
+	cluster103
+	cluster103
+	cluster104,cluster105
+	cluster106,cluster107
+	cluster108,cluster109
+	cluster110,cluster111
+	cluster112,cluster113
+	cluster114,cluster115
+	cluster116,cluster117
+	cluster118,cluster119
+	:space
+	:space
+	cluster120,cluster121
+	cluster122,cluster123
+	cluster124,cluster125
+	cluster126,cluster127
+	cluster128,cluster129
+	cluster130,cluster131
+	cluster132,cluster133
+	cluster134,cluster135
+	cluster136
+	cluster136
+	:space
+	:space
+	cluster137
+	cluster138
+	cluster139
+	cluster140
+	cluster141
+	cluster142
+	cluster143
+	cluster144
+	cluster145
+	cluster146
+	cluster147
+building1-room2-7-u-6
+	%building1-room2-env-u6-1
+	%building1-room2-pdu-u6-1
+	%building1-room2-pdu-u6-2
+	%building1-room2-pdu-u6-3
+	:tor
+	:space
+	:space
+	:tor
+	:space
+	:space
+	cluster148
+	cluster149
+	cluster150
+	cluster151
+	cluster152,cluster153
+	cluster154,cluster155
+	cluster156
+	cluster157
+	cluster158
+	cluster159
+	cluster160
+	cluster172,cluster174
+	cluster173,cluster175
+	cluster176,cluster178
+	cluster177,cluster179
+	:space
+	cluster180,cluster182
+	cluster181,cluster183
+	cluster184,cluster186
+	cluster185,cluster187
+	cluster188,cluster190
+	cluster189,cluster191
+	cluster192,cluster194
+	cluster193,cluster195
+	:space
+	cluster196,cluster198
+	cluster197,cluster199
+	cluster200,cluster202
+	cluster201,cluster203
+	lp233
+	lp230
+	lp230
+	lp230
+	lp230
+	lp231
+	lp231
+	lp231
+	lp231
+	lp232
+	lp232
+	lp232
+	lp232
+building1-room2-7-u-5
+	%building1-room2-env-u5-1
+	%building1-room2-pdu-u5-1
+	%building1-room2-pdu-u5-2
+	%building1-room2-pdu-u5-3
+building1-room2-7-u-4
+	%building1-room2-env-u4-1
+	%building1-room2-pdu-u4-1
+	%building1-room2-pdu-u4-2
+	%building1-room2-pdu-u4-3
+building1-room2-7-u-3
+	%building1-room2-env-u3-1
+	%building1-room2-pdu-u3-1
+	%building1-room2-pdu-u3-2
+	%building1-room2-pdu-u3-3
+building1-room2-7-u-2
+	%building1-room2-env-u2-1
+	%building1-room2-pdu-u2-1
+	%building1-room2-pdu-u2-2
+	%building1-room2-pdu-u2-3
+building1-room2-7-u-1
+	%building1-room2-env-u1-1
+	%building1-room2-pdu-u1-1
+	%building1-room2-pdu-u1-2
+	%building1-room2-pdu-u1-3
+building1-room2-6-t-16
+	%building1-room2-env-t16-1
+	%building1-room2-pdu-t16-1
+	%building1-room2-pdu-t16-2
+	%building1-room2-pdu-t16-3
+building1-room2-6-t-15
+	%building1-room2-env-t15-1
+	%building1-room2-pdu-t15-1
+	%building1-room2-pdu-t15-2
+	%building1-room2-pdu-t15-3
+	:tor
+	:space
+	:tor
+	:space
+	:space
+	:space
+	cluster257
+	cluster258
+	cluster259
+	cluster260
+	cluster261
+	cluster262
+	cluster263
+	cluster264
+	cluster265
+	cluster266
+	cluster267
+	cluster268
+	cluster269
+	cluster270
+	:space
+	cluster271
+	cluster271
+	cluster271
+	cluster271
+	cluster271
+	cluster272
+	cluster273
+	cluster274
+	cluster275
+	cluster276
+	cluster277
+	cluster278
+	cluster279
+	cluster280
+	cluster281
+	cluster282
+	cluster283
+	cluster284
+	cluster285
+	cluster286
+	cluster287
+	cluster288
+	cluster289
+	cluster290
+	cluster291
+	cluster292
+	:space
+building1-room2-6-t-14
+	%building1-room2-env-t14-1
+	%building1-room2-pdu-t14-1
+	%building1-room2-pdu-t14-2
+	%building1-room2-pdu-t14-3
+	:tor
+	:space
+	:space
+	:tor
+	:tor
+	:space
+	:space
+	:space
+	cluster293
+	cluster293
+	cluster294
+	cluster294
+	cluster294
+	cluster294
+	cluster295
+	cluster296
+	cluster297
+	cluster298
+	cluster299
+	cluster299
+	cluster300
+	cluster301
+	cluster302
+	cluster303
+	cluster304
+	cluster305
+	cluster306
+	cluster307
+	cluster308
+	cluster309
+	cluster310
+	cluster311
+	cluster312
+	cluster313
+	cluster314
+	cluster315
+	cluster316
+	cluster317
+	cluster318
+	cluster319
+	cluster320
+	cluster321
+	cluster322
+	cluster323
+	cluster324
+	cluster325
+	cluster326
+	:space
+building1-room2-6-t-13
+	%building1-room2-env-t13-1
+	%building1-room2-pdu-t13-1
+	%building1-room2-pdu-t13-2
+	%building1-room2-pdu-t13-3
+	:tor
+	:space
+	:space
+	:space
+	:space
+	cluster328
+	cluster328
+	cluster328
+	cluster328
+	cluster329
+	cluster329
+	cluster329
+	cluster329
+	cluster330
+	cluster330
+	cluster330
+	cluster330
+	cluster331
+	cluster332
+	cluster333
+	cluster334
+	cluster335
+	cluster336
+	cluster337
+	cluster338
+	:tor
+	:empty
+	cluster339
+	cluster340
+	cluster341
+	cluster342
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+building1-room2-6-t-12
+	%building1-room2-env-t12-1
+	%building1-room2-pdu-t12-1
+	%building1-room2-pdu-t12-2
+	%building1-room2-pdu-t12-3
+building1-room2-6-t-11
+	%building1-room2-env-t11-1
+	%building1-room2-pdu-t11-1
+	%building1-room2-pdu-t11-2
+	%building1-room2-pdu-t11-3
+building1-room2-6-t-10
+	%building1-room2-env-t10-1
+	%building1-room2-pdu-t10-1
+	%building1-room2-pdu-t10-2
+	%building1-room2-pdu-t10-3
+building1-room2-6-t-9
+	%building1-room2-env-t9-1
+	%building1-room2-pdu-t9-1
+	%building1-room2-pdu-t9-2
+	%building1-room2-pdu-t9-3
+building1-room2-6-t-8
+	%building1-room2-env-t8-1
+	%building1-room2-pdu-t8-1
+	%building1-room2-pdu-t8-2
+	%building1-room2-pdu-t8-3
+building1-room2-6-t-7
+	%building1-room2-env-t7-1
+	%building1-room2-pdu-t7-1
+	%building1-room2-pdu-t7-2
+	%building1-room2-pdu-t7-3
+building1-room2-6-t-6
+	%building1-room2-env-t6-1
+	%building1-room2-pdu-t6-1
+	%building1-room2-pdu-t6-2
+	%building1-room2-pdu-t6-3
+building1-room2-6-t-5
+	%building1-room2-env-t5-1
+	%building1-room2-pdu-t5-1
+	%building1-room2-pdu-t5-2
+	%building1-room2-pdu-t5-3
+building1-room2-6-t-4
+	%building1-room2-env-t4-1
+	%building1-room2-pdu-t4-1
+	%building1-room2-pdu-t4-2
+	%building1-room2-pdu-t4-3
+building1-room2-6-t-3
+	%building1-room2-env-t3-1
+	%building1-room2-pdu-t3-1
+	%building1-room2-pdu-t3-2
+	%building1-room2-pdu-t3-3
+building1-room2-6-t-2
+	%building1-room2-env-t2-1
+	%building1-room2-pdu-t2-1
+	%building1-room2-pdu-t2-2
+	%building1-room2-pdu-t2-3
+building1-room2-6-t-1
+	%building1-room2-env-t1-1
+	%building1-room2-pdu-t1-1
+	%building1-room2-pdu-t1-2
+	%building1-room2-pdu-t1-3
+building1-room2-6-s-16
+	%building1-room2-env-s16-1
+	%building1-room2-pdu-s16-1
+	%building1-room2-pdu-s16-2
+	%building1-room2-pdu-s16-3
+building1-room2-6-s-15
+	%building1-room2-env-s15-1
+	%building1-room2-pdu-s15-1
+	%building1-room2-pdu-s15-2
+	%building1-room2-pdu-s15-3
+	:tor
+	:space
+	:space
+	:tor
+	:space
+	:space
+	:space
+	cluster226
+	cluster226
+	cluster227
+	cluster228
+	cluster229
+	cluster230
+	cluster231
+	cluster232
+	cluster233
+	cluster234
+	cluster235
+	cluster236
+	cluster237
+	cluster238
+	cluster239
+	cluster240
+	cluster241
+	cluster242
+	cluster243
+	cluster244
+	cluster245
+	cluster246
+	cluster247
+	cluster248
+	cluster249
+	cluster250
+	cluster251
+	cluster252
+	cluster253
+	cluster254
+	cluster255
+	cluster256
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+	:space
+building1-room2-6-s-14
+	%building1-room2-env-s14-1
+	%building1-room2-pdu-s14-1
+	%building1-room2-pdu-s14-2
+	%building1-room2-pdu-s14-3
+	:tor
+	:space
+	:space
+	:space
+	:tor
+	:tor
+	:space
+	cluster161
+	cluster162
+	cluster163
+	cluster164
+	cluster165
+	cluster166
+	cluster167
+	cluster168
+	cluster168
+	cluster169
+	cluster169
+	cluster170
+	cluster171
+	cluster204
+	cluster204
+	cluster204
+	cluster204
+	cluster205
+	cluster206
+	cluster207
+	cluster208
+	cluster209
+	cluster210
+	cluster211
+	cluster212
+	cluster213
+	cluster214
+	cluster215
+	cluster215
+	cluster216
+	cluster217
+	cluster218
+	cluster219
+	cluster220
+	cluster221
+	cluster222
+	cluster223
+	cluster224
+	cluster225
+	:space
+	:space
+building1-room2-6-s-13
+	%building1-room2-env-s13-1
+	%building1-room2-pdu-s13-1
+	%building1-room2-pdu-s13-2
+	%building1-room2-pdu-s13-3
+building1-room2-6-s-12
+	%building1-room2-env-s12-1
+	%building1-room2-pdu-s12-1
+	%building1-room2-pdu-s12-2
+	%building1-room2-pdu-s12-3
+building1-room2-6-s-11
+	%building1-room2-env-s11-1
+	%building1-room2-pdu-s11-1
+	%building1-room2-pdu-s11-2
+	%building1-room2-pdu-s11-3
+building1-room2-6-s-10
+	%building1-room2-env-s10-1
+	%building1-room2-pdu-s10-1
+	%building1-room2-pdu-s10-2
+	%building1-room2-pdu-s10-3
+building1-room2-6-s-9
+	%building1-room2-env-s9-1
+	%building1-room2-pdu-s9-1
+	%building1-room2-pdu-s9-2
+	%building1-room2-pdu-s9-3
+building1-room2-6-s-8
+	%building1-room2-env-s8-1
+	%building1-room2-pdu-s8-1
+	%building1-room2-pdu-s8-2
+	%building1-room2-pdu-s8-3
+building1-room2-6-s-7
+	%building1-room2-env-s7-1
+	%building1-room2-pdu-s7-1
+	%building1-room2-pdu-s7-2
+	%building1-room2-pdu-s7-3
+building1-room2-6-s-6
+	%building1-room2-env-s6-1
+	%building1-room2-pdu-s6-1
+	%building1-room2-pdu-s6-2
+	%building1-room2-pdu-s6-3
+building1-room2-6-s-5
+	%building1-room2-env-s5-1
+	%building1-room2-pdu-s5-1
+	%building1-room2-pdu-s5-2
+	%building1-room2-pdu-s5-3
+building1-room2-6-s-4
+	%building1-room2-env-s4-1
+	%building1-room2-pdu-s4-1
+	%building1-room2-pdu-s4-2
+	%building1-room2-pdu-s4-3
+building1-room2-6-s-3
+	%building1-room2-env-s3-1
+	%building1-room2-pdu-s3-1
+	%building1-room2-pdu-s3-2
+	%building1-room2-pdu-s3-3
+building1-room2-6-s-2
+	%building1-room2-env-s2-1
+	%building1-room2-pdu-s2-1
+	%building1-room2-pdu-s2-2
+	%building1-room2-pdu-s2-3
+building1-room2-6-s-1
+	%building1-room2-env-s1-1
+	%building1-room2-pdu-s1-1
+	%building1-room2-pdu-s1-2
+	%building1-room2-pdu-s1-3
+building1-room2-5-r-16
+	%building1-room2-env-r16-1
+	%building1-room2-pdu-r16-1
+	%building1-room2-pdu-r16-2
+	%building1-room2-pdu-r16-3
+building1-room2-5-r-15
+	%building1-room2-env-r15-1
+	%building1-room2-pdu-r15-1
+	%building1-room2-pdu-r15-2
+	%building1-room2-pdu-r15-3
+building1-room2-5-r-14
+	%building1-room2-env-r14-1
+	%building1-room2-pdu-r14-1
+	%building1-room2-pdu-r14-2
+	%building1-room2-pdu-r14-3
+building1-room2-5-r-13
+	%building1-room2-env-r13-1
+	%building1-room2-pdu-r13-1
+	%building1-room2-pdu-r13-2
+	%building1-room2-pdu-r13-3
+building1-room2-5-r-12
+	%building1-room2-env-r12-1
+	%building1-room2-pdu-r12-1
+	%building1-room2-pdu-r12-2
+	%building1-room2-pdu-r12-3
+building1-room2-5-r-11
+	%building1-room2-env-r11-1
+	%building1-room2-pdu-r11-1
+	%building1-room2-pdu-r11-2
+	%building1-room2-pdu-r11-3
+building1-room2-5-r-10
+	%building1-room2-env-r10-1
+	%building1-room2-pdu-r10-1
+	%building1-room2-pdu-r10-2
+	%building1-room2-pdu-r10-3
+building1-room2-5-r-9
+	%building1-room2-env-r9-1
+	%building1-room2-pdu-r9-1
+	%building1-room2-pdu-r9-2
+	%building1-room2-pdu-r9-3
+building1-room2-5-r-8
+	%building1-room2-env-r8-1
+	%building1-room2-pdu-r8-1
+	%building1-room2-pdu-r8-2
+	%building1-room2-pdu-r8-3
+building1-room2-5-r-7
+	%building1-room2-env-r7-1
+	%building1-room2-pdu-r7-1
+	%building1-room2-pdu-r7-2
+	%building1-room2-pdu-r7-3
+building1-room2-5-r-6
+	%building1-room2-env-r6-1
+	%building1-room2-pdu-r6-1
+	%building1-room2-pdu-r6-2
+	%building1-room2-pdu-r6-3
+building1-room2-5-r-5
+	%building1-room2-env-r5-1
+	%building1-room2-pdu-r5-1
+	%building1-room2-pdu-r5-2
+	%building1-room2-pdu-r5-3
+building1-room2-5-r-4
+	%building1-room2-env-r4-1
+	%building1-room2-pdu-r4-1
+	%building1-room2-pdu-r4-2
+	%building1-room2-pdu-r4-3
+building1-room2-5-r-3
+	%building1-room2-env-r3-1
+	%building1-room2-pdu-r3-1
+	%building1-room2-pdu-r3-2
+	%building1-room2-pdu-r3-3
+building1-room2-5-r-2
+	%building1-room2-env-r2-1
+	%building1-room2-pdu-r2-1
+	%building1-room2-pdu-r2-2
+	%building1-room2-pdu-r2-3
+building1-room2-5-r-1
+	%building1-room2-env-r1-1
+	%building1-room2-pdu-r1-1
+	%building1-room2-pdu-r1-2
+	%building1-room2-pdu-r1-3
+building1-room2-5-q-16
+	%building1-room2-env-q16-1
+	%building1-room2-pdu-q16-1
+	%building1-room2-pdu-q16-2
+	%building1-room2-pdu-q16-3
+building1-room2-5-q-15
+	%building1-room2-env-q15-1
+	%building1-room2-pdu-q15-1
+	%building1-room2-pdu-q15-2
+	%building1-room2-pdu-q15-3
+building1-room2-5-q-14
+	%building1-room2-env-q14-1
+	%building1-room2-pdu-q14-1
+	%building1-room2-pdu-q14-2
+	%building1-room2-pdu-q14-3
+building1-room2-5-q-13
+	%building1-room2-env-q13-1
+	%building1-room2-pdu-q13-1
+	%building1-room2-pdu-q13-2
+	%building1-room2-pdu-q13-3
+building1-room2-5-q-12
+	%building1-room2-env-q12-1
+	%building1-room2-pdu-q12-1
+	%building1-room2-pdu-q12-2
+	%building1-room2-pdu-q12-3
+building1-room2-5-q-11
+	%building1-room2-env-q11-1
+	%building1-room2-pdu-q11-1
+	%building1-room2-pdu-q11-2
+	%building1-room2-pdu-q11-3
+building1-room2-5-q-10
+	%building1-room2-env-q10-1
+	%building1-room2-pdu-q10-1
+	%building1-room2-pdu-q10-2
+	%building1-room2-pdu-q10-3
+building1-room2-5-q-9
+	%building1-room2-env-q9-1
+	%building1-room2-pdu-q9-1
+	%building1-room2-pdu-q9-2
+	%building1-room2-pdu-q9-3
+building1-room2-5-q-8
+	%building1-room2-env-q8-1
+	%building1-room2-pdu-q8-1
+	%building1-room2-pdu-q8-2
+	%building1-room2-pdu-q8-3
+building1-room2-5-q-7
+	%building1-room2-env-q7-1
+	%building1-room2-pdu-q7-1
+	%building1-room2-pdu-q7-2
+	%building1-room2-pdu-q7-3
+building1-room2-5-q-6
+	%building1-room2-env-q6-1
+	%building1-room2-pdu-q6-1
+	%building1-room2-pdu-q6-2
+	%building1-room2-pdu-q6-3
+building1-room2-5-q-5
+	%building1-room2-env-q5-1
+	%building1-room2-pdu-q5-1
+	%building1-room2-pdu-q5-2
+	%building1-room2-pdu-q5-3
+building1-room2-5-q-4
+	%building1-room2-env-q4-1
+	%building1-room2-pdu-q4-1
+	%building1-room2-pdu-q4-2
+	%building1-room2-pdu-q4-3
+building1-room2-5-q-3
+	%building1-room2-env-q3-1
+	%building1-room2-pdu-q3-1
+	%building1-room2-pdu-q3-2
+	%building1-room2-pdu-q3-3
+building1-room2-5-q-2
+	%building1-room2-env-q2-1
+	%building1-room2-pdu-q2-1
+	%building1-room2-pdu-q2-2
+	%building1-room2-pdu-q2-3
+building1-room2-5-q-1
+	%building1-room2-env-q1-1
+	%building1-room2-pdu-q1-1
+	%building1-room2-pdu-q1-2
+	%building1-room2-pdu-q1-3
+building1-room1-0-h-16
+	%building1-room1-env-h16-1
+	%building1-room1-pdu-h16-1
+	%building1-room1-pdu-h16-2
+	%building1-room1-pdu-h16-3
+building1-room1-0-h-15
+	%building1-room1-env-h15-1
+	%building1-room1-pdu-h15-1
+	%building1-room1-pdu-h15-2
+	%building1-room1-pdu-h15-3
+building1-room1-0-h-14
+	%building1-room1-env-h14-1
+	%building1-room1-pdu-h14-1
+	%building1-room1-pdu-h14-2
+	%building1-room1-pdu-h14-3
+building1-room1-0-h-13
+	%building1-room1-env-h13-1
+	%building1-room1-pdu-h13-1
+	%building1-room1-pdu-h13-2
+	%building1-room1-pdu-h13-3
+building1-room1-0-h-12
+	%building1-room1-env-h12-1
+	%building1-room1-pdu-h12-1
+	%building1-room1-pdu-h12-2
+	%building1-room1-pdu-h12-3
+building1-room1-0-h-11
+	%building1-room1-env-h11-1
+	%building1-room1-pdu-h11-1
+	%building1-room1-pdu-h11-2
+	%building1-room1-pdu-h11-3
+building1-room1-0-h-10
+	%building1-room1-env-h10-1
+	%building1-room1-pdu-h10-1
+	%building1-room1-pdu-h10-2
+	%building1-room1-pdu-h10-3
+building1-room1-0-h-9
+	%building1-room1-env-h9-1
+	%building1-room1-pdu-h9-1
+	%building1-room1-pdu-h9-2
+	%building1-room1-pdu-h9-3
+building1-room1-0-h-8
+	%building1-room1-env-h8-1
+	%building1-room1-pdu-h8-1
+	%building1-room1-pdu-h8-2
+	%building1-room1-pdu-h8-3
+building1-room1-0-h-7
+	%building1-room1-env-h7-1
+	%building1-room1-pdu-h7-1
+	%building1-room1-pdu-h7-2
+	%building1-room1-pdu-h7-3
+building1-room1-0-h-6
+	%building1-room1-env-h6-1
+	%building1-room1-pdu-h6-1
+	%building1-room1-pdu-h6-2
+	%building1-room1-pdu-h6-3
+building1-room1-0-h-5
+	%building1-room1-env-h5-1
+	%building1-room1-pdu-h5-1
+	%building1-room1-pdu-h5-2
+	%building1-room1-pdu-h5-3
+building1-room1-0-h-4
+	%building1-room1-env-h4-1
+	%building1-room1-pdu-h4-1
+	%building1-room1-pdu-h4-2
+	%building1-room1-pdu-h4-3
+building1-room1-0-h-3
+	%building1-room1-env-h3-1
+	%building1-room1-pdu-h3-1
+	%building1-room1-pdu-h3-2
+	%building1-room1-pdu-h3-3
+building1-room1-0-h-2
+	%building1-room1-env-h2-1
+	%building1-room1-pdu-h2-1
+	%building1-room1-pdu-h2-2
+	%building1-room1-pdu-h2-3
+building1-room1-0-h-1
+	%building1-room1-env-h1-1
+	%building1-room1-pdu-h1-1
+	%building1-room1-pdu-h1-2
+	%building1-room1-pdu-h1-3
+building1-room1-0-g-16
+	%building1-room1-env-g16-1
+	%building1-room1-pdu-g16-1
+	%building1-room1-pdu-g16-2
+	%building1-room1-pdu-g16-3
+building1-room1-0-g-15
+	%building1-room1-env-g15-1
+	%building1-room1-pdu-g15-1
+	%building1-room1-pdu-g15-2
+	%building1-room1-pdu-g15-3
+building1-room1-0-g-14
+	%building1-room1-env-g14-1
+	%building1-room1-pdu-g14-1
+	%building1-room1-pdu-g14-2
+	%building1-room1-pdu-g14-3
+building1-room1-0-g-13
+	%building1-room1-env-g13-1
+	%building1-room1-pdu-g13-1
+	%building1-room1-pdu-g13-2
+	%building1-room1-pdu-g13-3
+building1-room1-0-g-12
+	%building1-room1-env-g12-1
+	%building1-room1-pdu-g12-1
+	%building1-room1-pdu-g12-2
+	%building1-room1-pdu-g12-3
+building1-room1-0-g-11
+	%building1-room1-env-g11-1
+	%building1-room1-pdu-g11-1
+	%building1-room1-pdu-g11-2
+	%building1-room1-pdu-g11-3
+building1-room1-0-g-10
+	%building1-room1-env-g10-1
+	%building1-room1-pdu-g10-1
+	%building1-room1-pdu-g10-2
+	%building1-room1-pdu-g10-3
+building1-room1-0-g-9
+	%building1-room1-env-g9-1
+	%building1-room1-pdu-g9-1
+	%building1-room1-pdu-g9-2
+	%building1-room1-pdu-g9-3
+building1-room1-0-g-8
+	%building1-room1-env-g8-1
+	%building1-room1-pdu-g8-1
+	%building1-room1-pdu-g8-2
+	%building1-room1-pdu-g8-3
+building1-room1-0-g-7
+	%building1-room1-env-g7-1
+	%building1-room1-pdu-g7-1
+	%building1-room1-pdu-g7-2
+	%building1-room1-pdu-g7-3
+building1-room1-0-g-6
+	%building1-room1-env-g6-1
+	%building1-room1-pdu-g6-1
+	%building1-room1-pdu-g6-2
+	%building1-room1-pdu-g6-3
+building1-room1-0-g-5
+	%building1-room1-env-g5-1
+	%building1-room1-pdu-g5-1
+	%building1-room1-pdu-g5-2
+	%building1-room1-pdu-g5-3
+building1-room1-0-g-4
+	%building1-room1-env-g4-1
+	%building1-room1-pdu-g4-1
+	%building1-room1-pdu-g4-2
+	%building1-room1-pdu-g4-3
+building1-room1-0-g-3
+	%building1-room1-env-g3-1
+	%building1-room1-pdu-g3-1
+	%building1-room1-pdu-g3-2
+	%building1-room1-pdu-g3-3
+building1-room1-0-g-2
+	%building1-room1-env-g2-1
+	%building1-room1-pdu-g2-1
+	%building1-room1-pdu-g2-2
+	%building1-room1-pdu-g2-3
+building1-room1-0-g-1
+	%building1-room1-env-g1-1
+	%building1-room1-pdu-g1-1
+	%building1-room1-pdu-g1-2
+	%building1-room1-pdu-g1-3

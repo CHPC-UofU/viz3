@@ -1,0 +1,157 @@
+cache:
+  dir: cache/
+datasources:
+  redfish:
+    # Data pulled from a Prometheus-based redfish_exporter:
+    # https://github.com/jenningsloy318/redfish_exporter
+    datasource: prometheus
+    target: localhost:9090
+    label_categories:
+      job: [instance]
+    derived_labels:
+      # Either 'FAN$n{A,B}', 'System Board Fan$n{A,B}', '{GPU,MB} Tray FAN$n', or 'Pump RPM';
+      # We'll default to 'motherboard' for System Board, MB Tray and FAN matches, otherwise
+      # use the given lowercase matches:
+      # https://regex101.com/r/8mKhs6/1
+      - fan: fan_type
+        regex: "(PSU|GPU|Pump)"
+        func: str.lower
+        default: motherboard
+      # Either 'MB Tray FAN$n', 'GPU Tray FAN$n', 'PSU FAN {A,B}', 'FAN$n{A,B}', 'System Board Fan$n{A,B}'
+      # https://regex101.com/r/4DXRu7/1
+      - fan: fan_major  # $n, maybe be 'a' for e.g. 'PSU FAN A'
+        regex: "(?:FAN|Fan|fan)[ \\-_]*([0-9a-zA-Z][0-9]*)[ \\-_]*[a-zA-Z]?"
+        func: str.lower
+      - fan: fan_minor  # {A,B,C,D,...} as lowercase; may not exist for e.g. 'MB Tray FAN4'
+        parent: fan_major
+        regex: "(?:FAN|Fan|fan)[ \\-_]*[0-9a-zA-Z][0-9]*[ \\-_]*([a-zA-Z])?"
+        func: str.lower
+        default: "1"
+      # Either 'NIC.Slot.$n' or 'NIC.Embedded.1' or 'InfiniBand.Slot.$n'
+      - network_adapter_id: network_adapter_type
+        regex: "(NIC|InfiniBand)"
+        func: str.lower
+      # AKA is it infiniband or not; For us, 'integrated' always means the ethernet NIC,
+      # and 'slot' is usually Infiniband. Sometimes we get 'Infiniband.Slot.N' as the id,
+      # but not always so the existence of slot is our indicator.
+      - network_adapter_id: network_adapter_integration
+        regex: "(Integrated|Slot)"
+        func: str.lower
+      - network_adapter_id: network_adapter_number
+        regex: "([0-9][0-9]*)"
+        funcs: [str.lower, int]
+      - network_port_speed: network_port_speed_mbps
+        regex: "([0-9][0-9]*) Mbps"
+        func: int
+      # See https://regex101.com/r/CDscMA/1
+      - sensor: sensor_type
+        regex: "(NIC|CPU[0-9]* DTS|CPU|DIMM|FPGA|GPU|Inlet|Exhaust|SSD)"
+        func: str.lower
+      - sensor: sensor_major
+        regex: "(?:NIC|CPU[0-9]* DTS|CPU|DIMM|FPGA|GPU|Inlet|Exhaust|SSD)([a-zA-Z]|[0-9]*)"
+        func: str.lower
+        parent: sensor_type
+      - sensor: sensor_minor
+        regex: "(?:NIC|CPU[0-9]* DTS|CPU|DIMM|FPGA|GPU|Inlet|Exhaust|SSD)(?:[a-zA-Z]|[0-9]*)([a-zA-Z0-9]*)"
+        func: str.lower
+        parent: sensor_major
+      - memory: dimm_channel
+        regex: "DIMM.*([A-Za-z])[0-9]*"
+        func: str.lower
+        parent: memory_id
+      - memory: dimm_slot
+        regex: "DIMM.*[A-Za-z]([0-9]*)"
+        parent: dimm_channel
+      - processor: processor_type
+        regex: "(CPU|Video)"
+        func: str.lower
+        default: cpu
+    groups:
+      redfish_chassis_fan:
+        metrics: [redfish_chassis_fan_health, redfish_chassis_fan_rpm_percentage, redfish_chassis_fan_rpm, redfish_chassis_fan_rpm_min, redfish_chassis_fan_rpm_max, redfish_chassis_fan_rpm_lower_threshold_critical, redfish_chassis_fan_rpm_upper_threshold_critical, redfish_chassis_fan_state]
+        primary_labels: [instance, chassis_id, fan_id]
+        alias_labels:
+            - [fan_id, fan]
+        value_labels: [fan_type, fan_major, fan_minor]
+      redfish_chassis:
+        metrics: [redfish_chassis_health, redfish_chassis_state]
+        primary_labels: [instance, chassis_id]
+      redfish_chassis_network_adapter:
+        metrics: [redfish_chassis_network_adapter_health_state, redfish_chassis_network_adapter_state]
+        # network_adapter label is always "Network Adapter View" for me; useless.
+        primary_labels: [instance, chassis_id, network_adapter_id]
+        label_labels: [network_adapter_type, network_adapter_integration, network_adapter_number]
+      redfish_chassis_network_port:
+        metrics: [redfish_chassis_network_port_health_state, redfish_chassis_network_port_state]
+        alias_labels:
+          - [network_adapter_id, network_adapter]
+          - [network_port_id, network_port]
+        primary_labels: [instance, chassis_id, network_adapter_id, network_port_id]
+        value_labels: [network_port_type, network_port_speed, network_port_speed_mbps, network_adapter_type, network_adapter_integration, network_adapter_number, network_adapter_type, network_adapter_integration, network_adapter_number]
+      redfish_chassis_physical_security_sensor:
+        metrics: [redfish_chassis_physical_security_sensor_state]
+        primary_labels: [instance, chassis_id, intrusion_sensor_number]
+        value_labels: [intrusion_sensor_rearm]
+      redfish_chassis_power_powersupply:
+        metrics: [redfish_chassis_power_powersupply_health, redfish_chassis_power_powersupply_last_power_output_watts, redfish_chassis_power_powersupply_power_capacity_watts, redfish_chassis_power_powersupply_state]
+        alias_labels:
+          - [power_supply_id, power_supply]
+        primary_labels: [instance, chassis_id, power_supply_id]
+      # redfish_exporter, modified, but not upstreamed
+      redfish_chassis_power_powersupply_extension:
+        metrics: [redfish_chassis_power_powersupply_last_power_output_watts_percentage, redfish_chassis_power_powersupply_power_efficiency_percentage, redfish_chassis_power_powersupply_power_input_watts, redfish_chassis_power_powersupply_power_output_watts]
+        alias_labels:
+          - [power_supply_id, power_supply]
+        primary_labels: [instance, chassis_id, power_supply_id]
+      redfish_chassis_power_voltage:
+        # TODO: Visualize!
+        metrics: [redfish_chassis_power_voltage_state, redfish_chassis_power_voltage_volts, redfish_chassis_power_average_consumed_watts]
+        alias_labels:
+          - [power_voltage_id, power_voltage]
+        primary_labels: [instance, chassis_id, power_voltage_id]
+      redfish_chassis_temperature:
+        metrics: [redfish_chassis_temperature_celsius, redfish_chassis_temperature_sensor_state]
+        alias_labels:
+          - [sensor_id, sensor]
+        primary_labels: [instance, chassis_id, sensor_id]
+        value_labels: [sensor_type, sensor_major, sensor_minor]
+      redfish_exporter:
+        metrics: [redfish_exporter_collector_duration_seconds, redfish_up]
+        primary_labels: [instance]
+      redfish_manager:
+        metrics: [redfish_manager_health_state, redfish_manager_power_state, redfish_manager_state]
+        primary_labels: [instance, manager_id]
+        value_labels: [model, type]
+      redfish_system_ethernet_interface_link:
+        metrics: [redfish_system_ethernet_interface_link_status, redfish_system_ethernet_interface_health_state, redfish_system_ethernet_interface_link_enabled, redfish_system_ethernet_interface_state]
+        primary_labels: [instance, ethernet_interface_id]
+        value_labels: [ethernet_interface, ethernet_interface_speed]
+      redfish_system:
+        metrics: [redfish_system_health_state, redfish_system_power_state, redfish_system_state, redfish_system_total_memory_health_state, redfish_system_total_memory_size, redfish_system_total_memory_state, redfish_system_total_processor_count, redfish_system_total_processor_health_state, redfish_system_total_processor_state]
+        primary_labels: [instance, system_id]
+      redfish_system_memory:
+        metrics: [redfish_system_memory_capacity, redfish_system_memory_health_state, redfish_system_memory_state]
+        primary_labels: [instance, memory_id]
+        value_labels: [memory, dimm_channel, dimm_slot]
+      redfish_system_network_interface:
+        metrics: [redfish_system_network_interface_health_state, redfish_system_network_interface_state]
+        alias_labels:
+          - [network_interface_id, network_interface_id]
+        primary_labels: [instance, network_interface_id]
+      redfish_system_pcie_device:
+        metrics: [redfish_system_pcie_device_health_state, redfish_system_pcie_device_state]
+        primary_labels: [instance, pcie_device_id]
+      redfish_system_processor:
+        metrics: [redfish_system_processor_health_state, redfish_system_processor_state, redfish_system_processor_total_cores, redfish_system_processor_total_threads]
+        alias_labels:
+          - [processor_id, processor]
+        primary_labels: [instance, processor_id]
+        value_labels: [processor_type]
+      redfish_system_storage_drive:
+        metrics: [redfish_system_storage_drive_capacity, redfish_system_storage_drive_health_state, redfish_system_storage_drive_state]
+        primary_labels: [instance, drive_id]
+        value_labels: [drive]
+      redfish_system_storage_volume:
+        metrics: [redfish_system_storage_volume_capacity, redfish_system_storage_volume_health_state, redfish_system_storage_volume_state]
+        primary_labels: [instance, volume_id]
+        value_labels: [volumn]

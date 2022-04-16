@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<visualization>
+    <!-- 330: Supermicro (+GPU), or 271: Supermicro (+GPU) -->
+    <nolayout bind="redfish:instance" width="12" height="4">
+        <juxtapose axis="z">
+            <juxtapose axis="x">
+                <box bind=".redfish:sensor" filter=".redfish:sensor_type='inlet'" width="equal%" height="100%" depth="0.5" color=".redfish:redfish_chassis_temperature_celsius|temp_to_color" opacity="0.2" text=".redfish:redfish_chassis_temperature_celsius deg C"/>
+            </juxtapose>
+            <plane bind=".redfish:chassis_id" filter="!~'RAID'" height="0.2" depth="20" width="100%" color=".redfish:redfish_chassis_health|health_color" text=".redfish:instance">
+                <juxtapose width="100%" height="3.8" depth="100%" axis="z">
+                    <juxtapose axis="x" align="left">
+                        <scale height="50%" depth="25%">
+                            <juxtapose axis="x" width="100%" align="center">
+                                <!-- FIXME: Replace 100%with align="center", once implemented (should be equivelant to "center center" for x y) -->
+                                <juxtapose bind=".redfish:fan.redfish:fan_major" filter=".redfish:fan.redfish:fan_type='motherboard'" axis="z" width="equal%">
+                                    <nolayout bind=".redfish:fan" filter=".redfish:fan_type='motherboard'" >
+                                        <juxtapose bind=".redfish:fan_minor" axis="z">
+                                            <juxtapose axis="y" height="100%" align="center">
+                                                <rotate yaw="0" pitch="90" roll="0">
+                                                    <cylinder radius="0.5h" height="0.20d" color=".redfish:fan.redfish:redfish_chassis_fan_rpm_percentage|fanspeed_to_color?gray5" detail="0.75" text=".redfish:fan.redfish:redfish_chassis_fan_rpm_percentage?gray5 % RPM Capacity (.redfish:fan.redfish:redfish_chassis_fan_rpm_lower_threshold_critical?'N/A' / .redfish:fan.redfish:redfish_chassis_fan_rpm_upper_threshold_critical?'N/A')"/>
+                                                </rotate>
+                                            </juxtapose>
+                                            <box depth="15%" height="100%" width="100%" color=".redfish:fan.redfish:redfish_chassis_fan_rpm_percentage|fanspeed_to_color?gray5" darkness="0.2"/>
+                                        </juxtapose>
+                                    </nolayout>
+                                </juxtapose>
+                            </juxtapose>
+                        </scale>
+                    </juxtapose>
+                    <juxtapose axis="z" align="left" depth="75%" width="100%" height="3.8">
+                        <juxtapose axis="x" align="center" width="100%" depth="50%" spacing="0.5">
+                            <juxtapose axis="x" spacing="0.3">
+                                <juxtapose axis="x" spacing="0.1">
+                                    <box bind=".redfish:instance.redfish:memory_id" filter=".redfish:dimm_channel='a'" width="1.5%" height="0.8" depth="60%" color=".redfish:redfish_system_memory_health_state|green_health_color" darkness="0.4" text=".redfish:redfish_system_memory_capacity bytes"/>
+                                </juxtapose>
+                                <nolayout bind=".redfish:instance.redfish:processor.redfish:processor_type" filter="='cpu'">
+                                    <plane bind=".redfish:instance.redfish:processor" filter="~'1'" height="10%" padding="0.1" color=".redfish:instance.redfish:redfish_system_processor_health_state|green_health_color" darkness="0.6">
+                                        <juxtapose axis="x" width="20%" depth="width">
+                                            <nolayout bind=".redfish:instance.redfish:chassis_id.redfish:sensor!" filter=".redfish:sensor_type='cpu'">
+                                                <box bind=".redfish:sensor_major" filter=".redfish:sensor_major='1'" width="equal%" depth="equal%" height="20%" color=".redfish:sensor.redfish:redfish_chassis_temperature_celsius|cpu_temp_to_color" text=".redfish:sensor.redfish:redfish_chassis_temperature_celsius deg C"/>
+                                            </nolayout>
+                                        </juxtapose>
+                                    </plane>
+                                </nolayout>
+                            </juxtapose>
+                            <juxtapose axis="x" spacing="0.3">
+                                <nolayout bind=".redfish:instance.redfish:processor.redfish:processor_type" filter="='cpu'">
+                                    <plane bind=".redfish:instance.redfish:processor" filter="~'2'" height="10%" padding="0.1" color=".redfish:instance.redfish:redfish_system_processor_health_state|green_health_color" darkness="0.6">
+                                        <juxtapose axis="x" width="20%" depth="width">
+                                            <nolayout bind=".redfish:instance.redfish:chassis_id.redfish:sensor!" filter=".redfish:sensor_type='cpu'">
+                                                <box bind=".redfish:sensor_major" filter=".redfish:sensor_major='2'" width="equal%" depth="equal%" height="20%" color=".redfish:sensor.redfish:redfish_chassis_temperature_celsius|cpu_temp_to_color" text=".redfish:sensor.redfish:redfish_chassis_temperature_celsius deg C"/>
+                                            </nolayout>
+                                        </juxtapose>
+                                    </plane>
+                                </nolayout>
+                                <juxtapose axis="x" spacing="0.1">
+                                    <box bind=".redfish:instance.redfish:memory_id" filter=".redfish:dimm_channel='b'" width="1.5%" height="0.8" depth="60%" color=".redfish:redfish_system_memory_health_state|green_health_color" darkness="0.4" text=".redfish:redfish_system_memory_capacity bytes"/>
+                                </juxtapose>
+                            </juxtapose>
+                        </juxtapose>
+                        <juxtapose axis="x" spacing="0.5" depth="50%" align="left">
+                            <juxtapose axis="x" spacing="0.25" width="30%" align="left">
+                                <box bind=".redfish:power_supply_id" depth="100%" width="0.5" height="50%" color=".redfish:redfish_chassis_power_powersupply_last_power_output_watts_percentage|fanspeed_to_color" text="Power Supply: .redfish:redfish_chassis_power_powersupply_last_power_output_watts_percentage % Watts Capacity"/>
+                            </juxtapose>
+                            <padding width="10%"/>
+                            <padding width="60%" depth="100%">
+                                <scale height="100%" width="100%">
+                                    <juxtapose bind=".redfish:instance.gpu:nvidia_host" axis="x" width="60%" depth="100%" align="center">
+                                        <nolayout bind="gpu:nvidia_instance" >
+                                            <padding width="10%"/>
+                                            <scale height="100%">
+                                                <rotate roll="90">
+                                                    <include path="models/gpu.xml"/>
+                                                </rotate>
+                                            </scale>
+                                        </nolayout>
+                                    </juxtapose>
+                                </scale>
+                            </padding>
+                        </juxtapose>
+                    </juxtapose>
+                </juxtapose>
+            </plane>
+            <juxtapose axis="x">
+                <box bind=".redfish:sensor" filter=".redfish:sensor_type='exhaust'" width="equal%" height="100%" depth="0.25" color=".redfish:redfish_chassis_temperature_celsius|temp_to_color" opacity="0.2" text=".redfish:redfish_chassis_temperature_celsius deg C"/>
+            </juxtapose>
+        </juxtapose>
+    </nolayout>
+</visualization>

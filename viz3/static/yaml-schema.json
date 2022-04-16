@@ -1,0 +1,309 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "title": "viz3 data-graph config",
+    "description": "A configuration file describing the metrics and dimensions within databases.",
+    "definitions": {
+        "Config": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "cache": {
+                    "$ref": "#/definitions/Cache"
+                },
+                "datasources": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/DataSource"
+                    }
+                },
+                "joins": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Join"
+                    }
+                }
+            },
+            "required": [
+                "cache",
+                "datasources",
+                "joins"
+            ],
+            "title": "Config"
+        },
+        "Cache": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "dir": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "dir"
+            ],
+            "title": "Cache"
+        },
+        "DataSource": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "prometheus": {
+                    "$ref": "#/definitions/Prometheus"
+                },
+                "sqlite3": {
+                    "$ref": "#/definitions/SQLite3"
+                }
+            },
+            "title": "DataSource"
+        },
+        "SQLite3": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "datasource": {
+                    "type": "string"
+                },
+                "filepath": {
+                    "type": "string"
+                },
+                "tables": {
+                    "$ref": "#/definitions/SQLite3Tables"
+                }
+            },
+            "required": [
+                "datasource",
+                "filepath",
+                "tables"
+            ],
+            "title": "SQLite3"
+        },
+        "SQLite3Tables": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "location": {
+                    "$ref": "#/definitions/SQLite3Table"
+                }
+            },
+            "title": "SQLite3Tables"
+        },
+        "SQLite3Table": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "primary_keys": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "foreign_keys": {
+                    "$ref": "#/definitions/SQLite3ForeignKeys"
+                },
+                "category_keys": {
+                    "$ref": "#/definitions/SQLite3CategoryKeys"
+                },
+                "values": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "foreign_keys",
+                "category_keys",
+                "primary_keys",
+                "values"
+            ],
+            "title": "SQLite3Table"
+        },
+        "SQLite3ForeignKeys": {
+            "type": "object",
+            "additionalProperties": false,
+            "title": "SQLite3ForeignKeys"
+        },
+        "SQLite3CategoryKeys": {
+            "type": "object",
+            "additionalProperties": false,
+            "title": "SQLite3CategoryKeys"
+        },
+        "Prometheus": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "datasource": {
+                    "type": "string"
+                },
+                "target": {
+                    "type": "string"
+                },
+                "proxy": {
+                    "type": "string"
+                },
+                "label_categories": {
+                    "$ref": "#/definitions/PrometheusLabelCategories"
+                },
+                "groups": {
+                    "$ref": "#/definitions/PrometheusGroups"
+                }
+            },
+            "required": [
+                "datasource",
+                "groups",
+                "label_categories",
+                "proxy",
+                "target"
+            ],
+            "title": "Prometheus"
+        },
+        "PrometheusGroups": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "...": {
+                    "$ref": "#/definitions/Metric"
+                }
+            },
+            "required": [
+                "..."
+            ],
+            "title": "PrometheusGroups"
+        },
+        "Metric": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "metrics": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "primary_labels": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "alias_labels": {
+                    "type": "array",
+                    "items": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "value_labels": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "derived_labels": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/PrometheusDerivedLabel"
+                    }
+                },
+                "label_value_enums": {
+                    "$ref": "#/definitions/PrometheusLabelValueEnums"
+                }
+            },
+            "required": [
+                "metrics",
+                "primary_labels"
+            ],
+            "title": "Metric"
+        },
+        "PrometheusDerivedLabel": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "...": {
+                    "type": "string"
+                },
+                "regex": {
+                    "type": "string"
+                },
+                "func": {
+                    "type": "string"
+                }
+            },
+            "required": ["..."],
+            "title": "PrometheusDerivedLabel"
+        },
+        "PrometheusLabelValueEnums": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "...": {
+                    "type": "object",
+                    "additionalProperties": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "..."
+            ],
+            "title": "PrometheusLabelValueEnums"
+        },
+        "PrometheusLabelCategories": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "group": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "group"
+            ],
+            "title": "PrometheusLabelCategories"
+        },
+        "Join": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "infradb.location.row": {
+                    "type": "string"
+                },
+                "infradb.location.rack": {
+                    "type": "string"
+                },
+                "infradb.pdu.hostname": {
+                    "type": "string"
+                },
+                "infradb.slot.hostname": {
+                    "type": "string"
+                },
+                "infradb.env.hostname": {
+                    "type": "string"
+                },
+                "relabel_map": {
+                    "$ref": "#/definitions/RelabelMap"
+                }
+            },
+            "required": [],
+            "title": "Join"
+        },
+        "RelabelMap": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "host1": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "host1"
+            ],
+            "title": "RelabelMap"
+        }
+    }
+}

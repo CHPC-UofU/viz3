@@ -1,0 +1,5449 @@
+[
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster007",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster007",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster044",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster044",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster045",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster045",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster046",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster046",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster048",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster048",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster049",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster049",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster050",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster050",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster051",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster051",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster052",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster052",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster053",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster053",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster054",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster054",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster056",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster056",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster057",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster057",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster058",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster058",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster059",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster059",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster061",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster061",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster062",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster062",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster063",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster063",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster064",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster064",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster065",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster065",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster066",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster066",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster067",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster067",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster068",
+      "job": "redfish-cluster",
+      "network_adapter": "Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster068",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster071",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster071",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster072",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster072",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster073",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster073",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster074",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster074",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster075",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster075",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster076",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster076",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster077",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster077",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster079",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster079",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster080",
+      "job": "redfish-cluster",
+      "network_adapter": "Intel X722 LOM (onboard)",
+      "network_adapter_id": "ob-1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "1",
+      "group": "cluster",
+      "instance": "cluster080",
+      "job": "redfish-cluster",
+      "network_adapter": "Mellanox ConnectX-4 1x100GbE / EDR IB QSFP28 VPI Adapter",
+      "network_adapter_id": "slot-2",
+      "resource": "network_adapter"
+    },
+    "2"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster023",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster023",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster069",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster069",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster070",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster070",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster082",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster082",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.8",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster098",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster098",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster099",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster099",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster100",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster100",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster101",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster101",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster104",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster104",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster105",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster105",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster106",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster106",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster107",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster107",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster120",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster120",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster121",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster121",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster123",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster123",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster124",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster124",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster125",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster125",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster126",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster126",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster127",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster127",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster128",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster128",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster129",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster129",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster130",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster130",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster131",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster131",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster132",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster132",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster133",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster133",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster134",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster134",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster135",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster135",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster137",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster137",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster138",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster138",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster139",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster139",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster140",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster140",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster141",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster141",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster142",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster143",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster143",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster144",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster144",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster145",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster145",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster148",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster148",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster149",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster149",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster150",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster150",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster151",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster151",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster152",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster152",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster153",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster153",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster155",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster155",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.4",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster156",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster156",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster157",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster157",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster158",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster158",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster159",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster159",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster160",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster160",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster161",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster161",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster162",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster162",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster163",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster163",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster164",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster164",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster165",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster165",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster166",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster166",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster167",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster167",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster170",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster170",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster171",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster171",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster205",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster205",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster206",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster206",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster207",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster207",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster208",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster208",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster209",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster209",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster210",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster210",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster211",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster211",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster212",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster212",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster213",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster213",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster214",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster214",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster216",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster216",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster217",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster217",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster218",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster218",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster219",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster219",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster220",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster220",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster221",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster221",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster222",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster222",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster223",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster223",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster224",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster224",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster225",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster225",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster226",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster226",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster227",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster227",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster228",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster228",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster229",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster229",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster230",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster230",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster231",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster231",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster232",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster232",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster233",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster233",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster234",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster234",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster235",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster235",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster236",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster236",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster237",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster237",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster238",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster238",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster239",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster239",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster240",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster240",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster241",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster241",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster242",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster242",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster243",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster243",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster244",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster244",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster245",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster245",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster246",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster246",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster247",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster247",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster248",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster248",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster249",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster249",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster250",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster250",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster251",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster251",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster252",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster252",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster253",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster253",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Mezzanine.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster253",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster254",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster254",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Mezzanine.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster254",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster255",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster255",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Mezzanine.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster255",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster256",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster256",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Mezzanine.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster256",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster257",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster257",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster258",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster258",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster259",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster259",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster260",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster260",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster261",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster261",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster262",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster262",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster263",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster263",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster264",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster264",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster265",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster265",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster266",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster266",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster267",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster267",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster268",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster268",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster269",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster269",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Mezzanine.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster269",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster270",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster270",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Mezzanine.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster270",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster272",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster272",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster273",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster273",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster274",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster274",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster275",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster275",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster276",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster276",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster277",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster277",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster286",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster286",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster287",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster287",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster288",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster288",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster289",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster289",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster290",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster290",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster291",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster291",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster292",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster292",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster296",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster296",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster297",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster297",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster298",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster298",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster300",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster300",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster301",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster301",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster302",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster302",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster303",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster303",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster304",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster304",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster305",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster305",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster306",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster306",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster307",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster307",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster308",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster308",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster309",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster309",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster310",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster310",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster311",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster311",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster312",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster312",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster313",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster313",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster314",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster314",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster315",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster315",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster316",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster316",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster317",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster317",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster318",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster318",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster319",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster319",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster320",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster320",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster321",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster321",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster322",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster322",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster323",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster323",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster324",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster324",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster325",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster325",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster326",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster326",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster326",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster331",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster331",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster332",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster332",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster333",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster333",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster333",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster334",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster334",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster334",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster335",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.2",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster335",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster335",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Integrated.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster336",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster336",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster337",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster337",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster338",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "InfiniBand.Slot.3",
+      "resource": "network_adapter"
+    },
+    "1"
+  ],
+  [
+    {
+      "__name__": "redfish_chassis_network_adapter_health_state",
+      "chassis_id": "System.Embedded.1",
+      "group": "cluster",
+      "instance": "cluster338",
+      "job": "redfish-cluster",
+      "network_adapter": "Network Adapter View",
+      "network_adapter_id": "NIC.Embedded.1",
+      "resource": "network_adapter"
+    },
+    "1"
+  ]
+]

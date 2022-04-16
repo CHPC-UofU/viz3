@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<visualization>
+    <plane bind="gpu:nvidia_instance!" padding="0.5" height="1" color=".gpu:nvidia_temp|gpu_temp_to_color?gray5" text="Temp: .gpu:nvidia_temp?'N/A'\nPerf State: .gpu:nvidia_perfstate?'N/A'\nBus ID: .gpu:nvidia_busid?'N/A'">
+        <juxtapose axis="z" spacing="2">
+            <cylinder bind=".gpu:nvidia_fanspeed!" radius="3.5" height="2" color=".gpu:nvidia_fanspeed|fanspeed_to_color?gray5" text="Fan Speed: .gpu:nvidia_fanspeed?'N/A' % Max RPM" detail="1.0"/>
+            <juxtapose axis="x">
+                <padding depth="1" width="1"/>
+                <juxtapose axis="y" align="center">
+                    <box bind=".gpu:nvidia_gpuactive" width="5" depth="5" height="0.3" color=".gpu:nvidia_gpuactive|pct_to_color" darken="0.5"/>
+                    <rotate degrees="45">
+                        <box bind=".gpu:nvidia_gpuactive" width="2.5" depth="2.5" height="0.2" color=".gpu:nvidia_gpuactive|pct_to_color" opacity="0.8" text=".gpu:nvidia_gpuactive % Util"/>
+                    </rotate>
+                </juxtapose>
+                <padding depth="1" width="1"/>
+            </juxtapose>
+            <box bind=".gpu:nvidia_memactive" width="7" depth="2" height="0.3" color=".gpu:nvidia_memactive|pct_to_color" text=".gpu:nvidia_memactive % Memory Util"/>
+        </juxtapose>
+    </plane>
+</visualization>

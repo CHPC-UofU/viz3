@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "__name__": "measurementsExternalSensorValue",
+      "group": "pdus",
+      "instance": "building1-room1-pdu-h9-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorID": "2"
+    },
+    "24"
+  ],
+  [
+    {
+      "__name__": "measurementsExternalSensorValue",
+      "group": "pdus",
+      "instance": "building1-room2-pdu-q5-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorID": "2"
+    },
+    "23"
+  ],
+  [
+    {
+      "__name__": "measurementsExternalSensorValue",
+      "group": "pdus",
+      "instance": "building1-room2-pdu-s11-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorID": "2"
+    },
+    "25"
+  ],
+  [
+    {
+      "__name__": "measurementsExternalSensorValue",
+      "group": "pdus",
+      "instance": "building1-room2-pdu-u11-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorID": "2"
+    },
+    "26"
+  ],
+  [
+    {
+      "__name__": "measurementsExternalSensorValue",
+      "group": "pdus",
+      "instance": "building1-room2-pdu-u12-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorID": "2"
+    },
+    "17"
+  ],
+  [
+    {
+      "__name__": "measurementsExternalSensorValue",
+      "group": "pdus",
+      "instance": "building1-room2-pdu-u7-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorID": "2"
+    },
+    "26"
+  ]
+]

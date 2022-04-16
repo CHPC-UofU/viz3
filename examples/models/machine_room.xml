@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<visualization>
+    <juxtapose bind="infradb:location_datacenter" spacing="100" axis="x">
+        <juxtapose bind=".infradb:location_room" spacing="40" axis="x">
+            <juxtapose bind=".infradb:location_pod" spacing="10" axis="x">
+                <juxtapose bind=".infradb:location_row" axis="z">
+                    <juxtapose bind=".infradb:location_rack" axis="x">
+                        <nolayout height="48" depth="12" width="20">
+                            <juxtapose axis="x" align="left">
+                                <juxtapose axis="y" width="2">
+                                    <box bind=".infradb:pdu_hostname!" width="2" depth="2" height="equal%" color=".snmp:active_power|power_to_color?gray5" text="PDU: .infradb:pdu_hostname\nActive Power: .snmp:active_power"/>
+                                </juxtapose>
+                                <juxtapose axis="x">
+                                    <juxtapose bind=".infradb:location_row.snmp:rack.snmp:aisle" filter="='hot'" axis="y">
+                                        <box bind=".snmp:position" height="equal%" width="1" depth="100%" color=".snmp:tempSensorTempC|temp_to_color" opacity="0.2" text="Temp: .snmp:tempSensorTempC C"/>
+                                    </juxtapose>
+                                    <juxtapose axis="z" width="100%" depth="100%" height="100%" align="center">
+                                        <box bind=".infradb:pdu_hostname!" limit="1" height="100%" depth="5%"
+                                             width="100%" color=".snmp:temp|pdu_temp_to_color?gray5" opacity=".snmp:humidity|humidity_to_opacity?0.5"
+                                             text="PDU: .infradb:pdu_hostname?N/A \nTemp: .snmp:temp?N/A C\nHumdity: .snmp:humidity?N/A %"/>
+                                        <nolayout width="100%" depth="90%" height="100%">
+                                            <juxtapose axis="y">
+                                                <padding bind=".infradb:location_slot" width="100%" depth="100%">
+                                                    <!-- If not machine in slot -->
+                                                    <padding bind=".infradb:machine_hostname" filter="=null" height="1" width="100%" depth="100%"/>
+                                                    <juxtapose axis="z">
+                                                        <nolayout bind=".infradb:machine_hostname" filter=".infradb:machine_manufacturer_model={'PowerEdge C6420','6029TP'}">
+                                                            <rotate degrees="-90">
+                                                                <include path="models/redfish-motherboard.mini.xml"/>
+                                                            </rotate>
+                                                        </nolayout>
+                                                        <nolayout bind=".infradb:machine_hostname" filter=".infradb:machine_manufacturer_model={'PowerEdge R7425','G292-Z20'}">
+                                                            <scale bind=".redfish:instance" width="100%" depth="100%">
+                                                                <rotate degrees="-90">
+                                                                    <include path="models/redfish-motherboard.mid.xml"/>
+                                                                </rotate>
+                                                            </scale>
+                                                        </nolayout>
+                                                        <nolayout bind=".infradb:machine_hostname" filter=".infradb:machine_manufacturer_model={'4029GP','AS-4124GO'}">
+                                                            <scale bind=".redfish:instance" width="100%" depth="100%">
+                                                                <rotate degrees="-90">
+                                                                    <include path="models/redfish-motherboard.tall.xml"/>
+                                                                </rotate>
+                                                            </scale>
+                                                        </nolayout>
+                                                        <nolayout bind=".infradb:machine_hostname" filter=".infradb:machine_manufacturer_model!={'PowerEdge C6420','6029TP','PowerEdge R7425','G292-Z20','4029GP','AS-4124GO'}" height=".infradb:machine_hostname.infradb:machine_manufacturer_units?1">
+                                                            <scale bind=".redfish:instance" width="100%" depth="100%">
+                                                                <rotate degrees="-90">
+                                                                    <include path="models/redfish-motherboard.xml"/>
+                                                                </rotate>
+                                                            </scale>
+                                                        </nolayout>
+                                                        <!-- Not all machines report manufacturers; assume u1 -->
+                                                        <nolayout bind=".infradb:machine_hostname.infradb:machine_manufacturer_model" filter="=null" height=".infradb:machine_hostname.infradb:machine_manufacturer_units?1">
+                                                            <scale bind=".infradb:machine_hostname.redfish:instance" width="100%" depth="100%">
+                                                                <rotate degrees="-90">
+                                                                    <include path="models/redfish-motherboard.xml"/>
+                                                                </rotate>
+                                                            </scale>
+                                                        </nolayout>
+                                                    </juxtapose>
+                                                </padding>
+                                            </juxtapose>
+                                            <box bind=".infradb:location_slot.infradb:machine_hostname" color="gray5" filter="=null" width="100%" height="100%" depth="100%" opacity="0.5" text=".infradb:location_row .infradb:location_rack"/>
+                                        </nolayout>
+                                        <box bind=".infradb:pdu_hostname!" limit="1" height="100%" depth="5%"
+                                             width="100%" color=".snmp:temp|pdu_temp_to_color?gray5" opacity=".snmp:humidity|humidity_to_opacity?0.5"
+                                             text="PDU: .infradb:pdu_hostname \nTemp: .snmp:temp?N/A C\nHumdity: .snmp:humidity?N/A %"/>
+                                    </juxtapose>
+                                    <juxtapose bind=".infradb:location_row.snmp:rack.snmp:aisle" filter="='cold'" axis="y">
+                                        <box bind=".snmp:position" height="equal%" width="1" depth="100%" color=".snmp:tempSensorTempC|temp_to_color" opacity="0.2" text="Temp: .snmp:tempSensorTempC C"/>
+                                    </juxtapose>
+                                </juxtapose>
+                            </juxtapose>
+                        </nolayout>
+                    </juxtapose>
+                </juxtapose>
+            </juxtapose>
+        </juxtapose>
+    </juxtapose>
+</visualization>

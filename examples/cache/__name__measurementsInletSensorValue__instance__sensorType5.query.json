@@ -1,0 +1,1814 @@
+[
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-g1-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "7484"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-g2-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "528"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-g3-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3212"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-g3-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4196"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-g4-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2086"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-g7-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "147"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-g7-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "170"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-g8-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "962"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-g8-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "83"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h1-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3820"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h1-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1755"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h10-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "10225"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h2-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "439"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h2-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1048"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h3-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3011"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h3-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1308"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h4-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2261"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h4-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2474"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h5-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3310"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h5-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1368"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h6-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2433"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h6-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2097"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h7-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "9339"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h8-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "8288"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room1-pdu-h9-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "11895"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q1-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1794"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q1-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1854"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q10-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2052"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q10-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2181"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q11-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1566"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q11-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2414"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q12-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3365"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q12-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3656"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q13-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1793"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q13-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1715"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q14-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2092"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q14-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1591"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q15-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3189"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q15-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "812"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q2-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1385"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q2-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1998"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q3-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "62"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q3-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q4-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "81"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q4-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "31"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q5-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2709"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q5-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2700"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q6-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2380"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q6-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "728"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q7-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1127"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q7-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1058"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q8-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "438"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q8-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "415"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q9-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1457"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-q9-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1389"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r1-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1845"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r1-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2613"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r10-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1654"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r10-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1682"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r11-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3405"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r11-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2907"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r12-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2557"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r12-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2634"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r13-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "916"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r13-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "769"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r14-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3287"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r14-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3010"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r15-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2726"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r15-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2834"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r2-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "578"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r2-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "506"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r3-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "271"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r3-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "395"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r4-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "22"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r4-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "303"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r5-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "0"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r5-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "0"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r6-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4069"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r6-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3969"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r7-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1806"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r7-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1917"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r8-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3260"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r8-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3273"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r9-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3403"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-r9-3",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3724"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s1-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "10477"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s10-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "10213"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s11-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6771"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s12-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "10142"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s13-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "9465"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s14-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "12087"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s15-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3056"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s15-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "7516"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s2-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "14948"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s2-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4959"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s3-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6130"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s4-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "5418"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s5-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3242"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s5-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4571"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s6-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3188"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s7-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "10053"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s8-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4460"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-s9-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6885"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t1-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2951"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t1-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6649"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t10-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "93"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t13-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "5901"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t14-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "10334"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t15-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4526"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t15-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "8453"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t2-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "15220"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t3-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "14680"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t4-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2455"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t5-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "0"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t6-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "0"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-t7-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "0"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u1-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2511"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u10-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "9821"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u11-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6016"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u12-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4212"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u13-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6361"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u14-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3903"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u15-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "11604"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u16-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6555"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u2-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4939"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u3-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "3799"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u4-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4366"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u5-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2687"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u6-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6079"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u7-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "7205"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u7-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "8345"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u7-3",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "8497"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u8-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "10472"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-u9-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "11211"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v1-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4398"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v1-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4460"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v10-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6813"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v11-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "0"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v13-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "2159"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v14-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "42"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v15-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "459"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v16-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "1507"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v2-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "7595"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v2-2",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "6381"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v3-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4248"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v4-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "7143"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v5-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "7707"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v6-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "5515"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v7-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4761"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v8-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "5196"
+  ],
+  [
+    {
+      "__name__": "measurementsInletSensorValue",
+      "group": "pdus",
+      "inletId": "1",
+      "instance": "building1-room2-pdu-v9-1",
+      "job": "snmp-pdu-metrics",
+      "pduId": "1",
+      "sensorType": "5"
+    },
+    "4645"
+  ]
+]
